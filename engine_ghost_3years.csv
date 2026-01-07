@@ -1,0 +1,230 @@
+state,district,pincode,elderly_pressure_median,volume_median
+Andhra Pradesh,Adilabad,504299,5.75,0.0
+Andhra Pradesh,Nalgonda,508204,6.0,0.0
+Andhra Pradesh,Nalgonda,508213,6.0,0.0
+Andhra Pradesh,Nalgonda,508280,7.0,0.0
+Andhra Pradesh,Warangal,506002,6.0,0.0
+Andhra Pradesh,Warangal,506172,6.0,0.0
+Assam,Bongaigaon,783383,5.833333333333334,0.0
+Bihar,Patna,803221,5.75,0.0
+Bihar,Rohtas,821301,5.583333333333334,0.0
+Bihar,Rohtas,821304,5.533333333333333,0.0
+Chhattisgarh,Durg,491228,8.5,0.0
+Chhattisgarh,Gariyaband,493891,5.5,0.0
+Chhattisgarh,Janjgir-champa,495688,9.166666666666666,0.0
+Chhattisgarh,Janjgir-champa,495692,11.0,0.0
+Chhattisgarh,Janjgir-champa,495695,8.0,0.0
+Chhattisgarh,Korba,495671,5.5,0.0
+Chhattisgarh,Raigarh,496115,7.0,0.0
+Chhattisgarh,Raigarh,496551,17.0,0.0
+Chhattisgarh,Raigarh,496554,9.5,0.0
+Chhattisgarh,Rajnandgaon,491229,5.3125,0.0
+Chhattisgarh,Sarangarh-Bilaigarh,496445,9.666666666666666,0.0
+Gujarat,Jamnagar,360510,6.0,0.0
+Jharkhand,Pakur,814111,5.333333333333333,0.0
+Kerala,Thiruvananthapuram,695572,5.5,0.0
+Maharashtra,Ahmadnagar,413702,8.0,0.0
+Maharashtra,Ahmadnagar,413725,5.666666666666667,0.0
+Maharashtra,Ahmadnagar,422620,7.0,0.0
+Maharashtra,Ahmadnagar,423603,7.5,0.0
+Maharashtra,Beed,414208,6.0,0.0
+Maharashtra,Bhandara,441803,9.0,0.0
+Maharashtra,Bhandara,441915,5.5,0.0
+Maharashtra,Bid,431122,9.0,0.0
+Maharashtra,Bid,431131,6.0,0.0
+Maharashtra,Buldana,443301,6.0,0.0
+Maharashtra,Buldhana,443204,6.5,0.0
+Maharashtra,Buldhana,443304,6.25,0.0
+Maharashtra,Chandrapur,441205,8.625,0.0
+Maharashtra,Chandrapur,441215,7.333333333333333,0.0
+Maharashtra,Chandrapur,441221,6.0,0.0
+Maharashtra,Chandrapur,442906,7.5,0.0
+Maharashtra,Chandrapur,442916,8.0,0.0
+Maharashtra,Gadchiroli,442709,6.0,0.0
+Maharashtra,Gondiya,441701,6.0,0.0
+Maharashtra,Gondiya,441702,8.0,0.0
+Maharashtra,Jalgaon,425108,6.0,0.0
+Maharashtra,Jalgaon,425127,6.5,0.0
+Maharashtra,Jalna,431507,7.0,0.0
+Maharashtra,Kolhapur,415101,6.0,0.0
+Maharashtra,Kolhapur,416119,5.5,0.0
+Maharashtra,Kolhapur,416206,6.0,0.0
+Maharashtra,Kolhapur,416212,6.25,0.0
+Maharashtra,Kolhapur,416213,5.166666666666666,0.0
+Maharashtra,Latur,413523,6.333333333333333,0.0
+Maharashtra,Mumbai,400015,6.333333333333333,0.0
+Maharashtra,Mumbai Suburban,400054,5.166666666666666,0.0
+Maharashtra,Nagpur,441101,5.625,0.0
+Maharashtra,Nashik,422215,5.25,0.0
+Maharashtra,Nashik,423213,5.5,0.0
+Maharashtra,Nashik,423402,6.5,0.0
+Maharashtra,Osmanabad,413525,6.0,0.0
+Maharashtra,Osmanabad,413603,6.0,0.0
+Maharashtra,Osmanabad,413605,5.5,0.0
+Maharashtra,Pune,412201,5.833333333333334,0.0
+Maharashtra,Pune,413110,6.25,0.0
+Maharashtra,Raigarh,402104,6.0,0.0
+Maharashtra,Raigarh,402106,6.0,0.0
+Maharashtra,Raigarh,402401,6.5,0.0
+Maharashtra,Raigarh,410205,11.0,0.0
+Maharashtra,Ratnagiri,415203,5.166666666666666,0.0
+Maharashtra,Ratnagiri,415616,5.5,0.0
+Maharashtra,Ratnagiri,415639,5.75,0.0
+Maharashtra,Ratnagiri,415712,6.875,0.0
+Maharashtra,Sangli,415301,5.5,0.0
+Maharashtra,Sangli,416405,6.6,0.0
+Maharashtra,Satara,415014,6.0,0.0
+Maharashtra,Satara,415501,6.0,0.0
+Maharashtra,Sindhudurg,416601,5.583333333333334,0.0
+Maharashtra,Sindhudurg,416602,6.25,0.0
+Maharashtra,Solapur,413101,8.5,0.0
+Maharashtra,Solapur,413111,5.375,0.0
+Maharashtra,Solapur,413214,6.0,0.0
+Maharashtra,Solapur,413218,5.583333333333334,0.0
+Maharashtra,Solapur,413248,8.333333333333332,0.0
+Maharashtra,Solapur,413253,6.0,0.0
+Maharashtra,Solapur,413302,5.75,0.0
+Maharashtra,Solapur,413306,11.0,0.0
+Maharashtra,Solapur,413310,6.333333333333333,0.0
+Maharashtra,Solapur,413324,5.5,0.0
+Maharashtra,Thane,401202,6.0,0.0
+Maharashtra,Thane,401303,7.0,0.0
+Maharashtra,Thane,401403,10.0,0.0
+Maharashtra,Thane,401404,10.0,0.0
+Maharashtra,Thane,401501,11.0,0.0
+Maharashtra,Thane,401603,14.5,0.0
+Maharashtra,Thane,401605,12.0,0.0
+Maharashtra,Thane,401606,7.0,0.0
+Maharashtra,Thane,401607,6.0,0.0
+Maharashtra,Thane,421303,8.5,0.0
+Maharashtra,Thane,421312,7.166666666666666,0.0
+Maharashtra,Thane,421403,6.0,0.0
+Maharashtra,Washim,444507,7.0,0.0
+Maharashtra,Washim,444510,5.5,0.0
+Maharashtra,Yavatmal,445106,7.0,0.0
+Maharashtra,Yavatmal,445207,8.0,0.0
+Maharashtra,Yavatmal,445305,7.25,0.0
+Maharashtra,Yavatmal,445306,11.0,0.0
+Maharashtra,Yavatmal,445401,5.25,0.0
+Punjab,Amritsar,143114,6.0,0.0
+Punjab,Bathinda,151401,8.416666666666668,0.0
+Punjab,Firozpur,152116,6.25,0.0
+Punjab,Firozpur,152123,6.0,0.0
+Punjab,Gurdaspur,143516,7.0,0.0
+Punjab,Gurdaspur,145023,6.0,0.0
+Punjab,Hoshiarpur,144202,6.0,0.0
+Punjab,Jalandhar,144041,5.583333333333334,0.0
+Punjab,Muktsar,152026,5.333333333333333,0.0
+Punjab,Muktsar,152101,6.0,0.0
+Punjab,Sangrur,148023,7.0,0.0
+Punjab,Sangrur,148035,6.5,0.0
+Rajasthan,Beawar,305901,6.0,0.0
+Rajasthan,Khairthal-Tijara,301019,7.0,0.0
+Tamil Nadu,Chennai,600095,5.333333333333333,0.0
+Tamil Nadu,Chennai,600099,8.5,0.0
+Telangana,Mancherial,504206,5.225,0.0
+Telangana,Mancherial,504215,6.675,0.0
+Telangana,Siddipet,505473,5.875,0.0
+Telangana,Suryapet,508222,6.366666666666667,0.0
+Telangana,Warangal Rural,506122,6.0,0.0
+Telangana,Warangal Rural,506330,5.166666666666666,0.0
+Telangana,Warangal Rural,506331,5.333333333333333,0.0
+Telangana,Warangal Rural,506349,6.0,0.0
+Telangana,Yadadri.,508105,6.0,0.0
+Telangana,Yadadri.,508286,6.0,0.0
+Tripura,South Tripura,799114,9.0,0.0
+Tripura,West Tripura,799102,8.666666666666666,0.0
+Tripura,West Tripura,799115,5.75,0.0
+Tripura,West Tripura,799181,9.5,0.0
+Uttar Pradesh,Azamgarh,276401,5.5,0.0
+Uttar Pradesh,Sonbhadra,231225,5.25,0.0
+West Bengal,Barddhaman,713166,6.5,0.0
+West Bengal,Barddhaman,713205,6.0,0.0
+West Bengal,Barddhaman,713213,5.5,0.0
+West Bengal,Barddhaman,713336,7.0,0.0
+West Bengal,Bardhaman,713103,7.0,0.0
+West Bengal,Dakshin Dinajpur,733101,6.0,0.0
+West Bengal,Darjeeling,734009,5.5,0.0
+West Bengal,Darjiling,734429,9.0,0.0
+West Bengal,East Midnapore,721401,6.375,0.0
+West Bengal,East Midnapore,721422,6.5,0.0
+West Bengal,East Midnapore,721431,5.75,0.0
+West Bengal,East Midnapore,721448,8.0,0.0
+West Bengal,Haora,711102,6.25,0.0
+West Bengal,Haora,711104,5.75,0.0
+West Bengal,Haora,711106,6.5,0.0
+West Bengal,Haora,711404,5.5,0.0
+West Bengal,Haora,711410,10.75,0.0
+West Bengal,Haora,711411,8.0,0.0
+West Bengal,Haora,711414,6.0,0.0
+West Bengal,Hooghly,712232,5.25,0.0
+West Bengal,Hooghly,712233,5.5,0.0
+West Bengal,Hooghly,712235,7.5,0.0
+West Bengal,Hooghly,712246,5.5,0.0
+West Bengal,Jalpaiguri,734501,6.0,0.0
+West Bengal,Jalpaiguri,735215,6.4,0.0
+West Bengal,Jalpaiguri,735216,8.75,0.0
+West Bengal,Jalpaiguri,735219,6.75,0.0
+West Bengal,Jalpaiguri,735222,5.25,0.0
+West Bengal,Jalpaiguri,735223,6.0,0.0
+West Bengal,Jalpaiguri,735225,6.0,0.0
+West Bengal,Jalpaiguri,735230,7.5,0.0
+West Bengal,Jalpaiguri,735302,5.5,0.0
+West Bengal,Jalpaiguri,736182,10.0,0.0
+West Bengal,Jalpaiguri,736201,6.5,0.0
+West Bengal,Jalpaiguri,736207,7.0,0.0
+West Bengal,Koch Bihar,735211,6.75,0.0
+West Bengal,Koch Bihar,735301,7.5,0.0
+West Bengal,Koch Bihar,735304,9.0,0.0
+West Bengal,Koch Bihar,736133,6.5,0.0
+West Bengal,Koch Bihar,736158,11.0,0.0
+West Bengal,Koch Bihar,736167,9.0,0.0
+West Bengal,Koch Bihar,736172,6.5,0.0
+West Bengal,Koch Bihar,736207,6.0,0.0
+West Bengal,Kolkata,700005,5.333333333333333,0.0
+West Bengal,Kolkata,700010,6.0,0.0
+West Bengal,Kolkata,700026,6.75,0.0
+West Bengal,Kolkata,700029,6.0,0.0
+West Bengal,Kolkata,700031,6.0,0.0
+West Bengal,Kolkata,700034,7.25,0.0
+West Bengal,Kolkata,700040,6.0,0.0
+West Bengal,Kolkata,700042,7.0,0.0
+West Bengal,Kolkata,700047,8.0,0.0
+West Bengal,Kolkata,700053,6.0,0.0
+West Bengal,Kolkata,700067,6.0,0.0
+West Bengal,Kolkata,700078,8.0,0.0
+West Bengal,Kolkata,700092,5.25,0.0
+West Bengal,Maldah,732102,6.0,0.0
+West Bengal,Nadia,741138,6.0,0.0
+West Bengal,Nadia,741161,6.0,0.0
+West Bengal,Nadia,741315,6.0,0.0
+West Bengal,North 24 Parganas,700036,6.75,0.0
+West Bengal,North 24 Parganas,700048,6.5,0.0
+West Bengal,North 24 Parganas,700051,8.0,0.0
+West Bengal,North 24 Parganas,700055,6.666666666666667,0.0
+West Bengal,North 24 Parganas,700074,7.0,0.0
+West Bengal,North 24 Parganas,700111,6.0,0.0
+West Bengal,North 24 Parganas,700113,5.5,0.0
+West Bengal,North 24 Parganas,700122,9.0,0.0
+West Bengal,North 24 Parganas,700129,5.25,0.0
+West Bengal,North 24 Parganas,743125,6.0,0.0
+West Bengal,North 24 Parganas,743133,7.0,0.0
+West Bengal,North 24 Parganas,743144,7.5,0.0
+West Bengal,North 24 Parganas,743165,9.0,0.0
+West Bengal,North Dinajpur,733129,6.5,0.0
+West Bengal,North Twenty Four Parganas,700124,5.25,0.0
+West Bengal,North Twenty Four Parganas,743126,6.0,0.0
+West Bengal,North Twenty Four Parganas,743442,6.166666666666666,0.0
+West Bengal,North Twenty Four Parganas,743446,8.0,0.0
+West Bengal,Paschim Medinipur,721159,6.0,0.0
+West Bengal,South 24 Parganas,700138,7.0,0.0
+West Bengal,South Dinajpur,733121,6.0,0.0
+West Bengal,South Dinajpur,733124,6.0,0.0
+West Bengal,South Twenty Four Parganas,700061,7.0,0.0
+West Bengal,South Twenty Four Parganas,700137,7.0,0.0
+West Bengal,South Twenty Four Parganas,700150,5.5,0.0
+West Bengal,South Twenty Four Parganas,743357,9.0,0.0
+West Bengal,South Twenty Four Parganas,743374,8.0,0.0
+West Bengal,West Midnapore,721150,5.5,0.0
+West Bengal,West Midnapore,721232,6.0,0.0
+West Bengal,West Midnapore,721242,6.0,0.0

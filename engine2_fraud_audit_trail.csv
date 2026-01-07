@@ -1,0 +1,156 @@
+state,district,pincode,audit_status,total_txns,risk_reason,severity_score
+West Bengal,Dinajpur Uttar,733210,HIGH RISK - Action Required,2727.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.11847237659965493
+Uttar Pradesh,Kushi Nagar,274304,HIGH RISK - Action Required,1570.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.11277481195924854
+West Bengal,24 Paraganas North,743329,HIGH RISK - Action Required,1418.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.10598842441546519
+Uttar Pradesh,Siddharth Nagar,272206,HIGH RISK - Action Required,1188.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.09981578693077298
+West Bengal,Dinajpur Uttar,733201,HIGH RISK - Action Required,1152.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.09981578693077298
+West Bengal,Dinajpur Uttar,733207,HIGH RISK - Action Required,3580.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.09313418820716246
+Bihar,Purbi Champaran,845437,HIGH RISK - Action Required,959.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.08430935864919054
+West Bengal,Dinajpur Uttar,733202,HIGH RISK - Action Required,2243.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.08188436206405059
+Haryana,Nuh,122508,HIGH RISK - Action Required,1079.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.07915432675539436
+West Bengal,Coochbehar,736135,HIGH RISK - Action Required,1440.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.07589045193569444
+Madhya Pradesh,Ashoknagar,473101,HIGH RISK - Action Required,777.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.07557954600872963
+Jharkhand,East Singhbum,831002,HIGH RISK - Action Required,769.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.0744949492326582
+Uttar Pradesh,Siddharth Nagar,272205,HIGH RISK - Action Required,721.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.07341181911071704
+Assam,Barpeta,783101,HIGH RISK - Action Required,940.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.07287080342516106
+Uttar Pradesh,Siddharth Nagar,272207,HIGH RISK - Action Required,754.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.07233015365961204
+Uttar Pradesh,Siddharth Nagar,272202,HIGH RISK - Action Required,681.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.0712499508987311
+West Bengal,Coochbehar,736167,HIGH RISK - Action Required,711.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.0712499508987311
+Bihar,Purbi Champaran,845401,HIGH RISK - Action Required,2033.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.07101941589602545
+Bihar,Purbi Champaran,845418,HIGH RISK - Action Required,1963.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.07048001833028406
+Uttar Pradesh,Shravasti,271831,HIGH RISK - Action Required,1884.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.06994098559012218
+Uttar Pradesh,Siddharth Nagar,272208,HIGH RISK - Action Required,604.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.06963238497558089
+Bihar,Purbi Champaran,845301,HIGH RISK - Action Required,1632.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.06778849795272157
+West Bengal,Coochbehar,735210,HIGH RISK - Action Required,451.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.0646242823555333
+West Bengal,Coochbehar,736145,HIGH RISK - Action Required,451.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.0646242823555333
+Haryana,Gurugram,122001,HIGH RISK - Action Required,1703.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.06457066939234335
+Gujarat,Sabar Kantha,383270,HIGH RISK - Action Required,622.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.06426414967984084
+Gujarat,Sabar Kantha,383422,HIGH RISK - Action Required,499.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.0640892101862115
+West Bengal,24 Paraganas South,743347,HIGH RISK - Action Required,490.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.0640892101862115
+Gujarat,Banas Kantha,385566,HIGH RISK - Action Required,587.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.0631948542333759
+Bihar,Purbi Champaran,845305,HIGH RISK - Action Required,1675.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.06296664705082544
+Jammu And Kashmir,Doda,182203,HIGH RISK - Action Required,538.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.061952538062665985
+West Bengal,Dinajpur Dakshin,733124,HIGH RISK - Action Required,574.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.061952538062665985
+West Bengal,Coochbehar,736146,HIGH RISK - Action Required,519.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.06141927294758709
+West Bengal,Medinipur West,721301,HIGH RISK - Action Required,523.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.06141927294758709
+Delhi,Central Delhi,110007,HIGH RISK - Action Required,388.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.06024342405523919
+Haryana,Gurugram,122103,HIGH RISK - Action Required,392.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.06024342405523919
+Jammu And Kashmir,Shopian,192303,HIGH RISK - Action Required,412.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.06024342405523919
+Telangana,Medchal Malkajgiri,500090,HIGH RISK - Action Required,406.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.06024342405523919
+Jharkhand,East Singhbum,831012,HIGH RISK - Action Required,362.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.05971131491220705
+Odisha,Nabarangpur,764074,HIGH RISK - Action Required,442.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.05971131491220705
+West Bengal,Dinajpur Dakshin,733125,HIGH RISK - Action Required,423.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.05971131491220705
+Chhattisgarh,Gaurella Pendra Marwahi,495117,HIGH RISK - Action Required,352.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.057586474866720305
+Bihar,Purbi Champaran,845303,HIGH RISK - Action Required,1733.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.05658301656818343
+Bihar,Purbi Champaran,845433,HIGH RISK - Action Required,1602.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.05605338316914288
+Bihar,Purbi Champaran,845302,HIGH RISK - Action Required,1408.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.05130277350591883
+Madhya Pradesh,Ashoknagar,473443,HIGH RISK - Action Required,1341.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.05130277350591883
+Gujarat,Rajkot,363440,HIGH RISK - Action Required,304.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.05102891052365088
+Andhra Pradesh,Spsr Nellore,524004,HIGH RISK - Action Required,296.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04997751252866378
+Karnataka,Bengaluru Rural,560060,HIGH RISK - Action Required,281.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04997751252866378
+Telangana,Hyderabad,500084,HIGH RISK - Action Required,280.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04997751252866378
+Telangana,Ranga Reddy,500079,HIGH RISK - Action Required,284.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04997751252866378
+West Bengal,Coochbehar,736165,HIGH RISK - Action Required,290.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04997751252866378
+Gujarat,Botad,363421,HIGH RISK - Action Required,264.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04892753629450608
+West Bengal,24 Paraganas North,700119,HIGH RISK - Action Required,261.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04892753629450608
+Karnataka,Bengaluru Urban,560068,HIGH RISK - Action Required,1638.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04867601882467543
+West Bengal,Dinajpur Uttar,733134,HIGH RISK - Action Required,1183.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04710422607211484
+Bihar,Bhagalpur,811211,HIGH RISK - Action Required,453.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.046995684658051595
+Gujarat,Sabar Kantha,383255,HIGH RISK - Action Required,226.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04423773846612378
+Uttar Pradesh,Aligarh,250611,HIGH RISK - Action Required,1220.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04397019547873293
+Chhattisgarh,Gaurella Pendra Marwahi,495119,HIGH RISK - Action Required,443.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04375400728355816
+Haryana,Nuh,122108,HIGH RISK - Action Required,427.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.0432330508809361
+Gujarat,Banas Kantha,385575,HIGH RISK - Action Required,430.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04276536101621253
+Jharkhand,East Singhbum,832105,HIGH RISK - Action Required,205.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.042154718645402656
+West Bengal,Coochbehar,736131,HIGH RISK - Action Required,209.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.042154718645402656
+Karnataka,Bengaluru Urban,560045,HIGH RISK - Action Required,1108.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.041780089226346906
+Haryana,Gurugram,122004,HIGH RISK - Action Required,202.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04163484393361716
+Karnataka,Ramanagara,562160,HIGH RISK - Action Required,204.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04163484393361716
+Uttar Pradesh,Kheri,261121,HIGH RISK - Action Required,361.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.04098291992290237
+Delhi,New Delhi,110070,HIGH RISK - Action Required,197.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.038005553036593476
+Maharashtra,Ahmednagar,413705,HIGH RISK - Action Required,196.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.038005553036593476
+Andhra Pradesh,Spsr Nellore,524201,HIGH RISK - Action Required,332.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.03735670930590618
+Tamil Nadu,Kanchipuram,631502,HIGH RISK - Action Required,351.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.036323799647624
+Telangana,Medchal Malkajgiri,500072,HIGH RISK - Action Required,298.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.03587540256705124
+West Bengal,24 Paraganas North,743251,HIGH RISK - Action Required,178.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.03387878490714924
+West Bengal,24 Paraganas North,743235,HIGH RISK - Action Required,186.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.03336450768506949
+Karnataka,Bengaluru Urban,560016,HIGH RISK - Action Required,809.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.032744736701924904
+Karnataka,Bengaluru Rural,562110,HIGH RISK - Action Required,174.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.032336996511390104
+Karnataka,Bengaluru Urban,560004,HIGH RISK - Action Required,175.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.032336996511390104
+Maharashtra,Ahmednagar,414105,HIGH RISK - Action Required,172.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.032336996511390104
+Karnataka,Bengaluru Urban,560043,HIGH RISK - Action Required,1293.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.03182446114393689
+Karnataka,Bengaluru Urban,560032,HIGH RISK - Action Required,861.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.031718063618208836
+Karnataka,Bengaluru Urban,560078,HIGH RISK - Action Required,852.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.03131157337910506
+Madhya Pradesh,Ashoknagar,473335,HIGH RISK - Action Required,893.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.03131157337910506
+West Bengal,24 Paraganas North,743145,HIGH RISK - Action Required,169.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.031310874797406685
+Bihar,Purbi Champaran,845304,HIGH RISK - Action Required,937.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.03018065651782309
+Karnataka,Bengaluru Urban,560017,HIGH RISK - Action Required,112.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.029774293353946546
+Karnataka,Bengaluru Urban,560027,HIGH RISK - Action Required,112.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.029774293353946546
+Karnataka,Bengaluru Urban,560064,HIGH RISK - Action Required,1008.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.029263488929090475
+Karnataka,Bengaluru Rural,560067,HIGH RISK - Action Required,961.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.028752333296977794
+Bihar,Purbi Champaran,845315,HIGH RISK - Action Required,242.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.02854619173247941
+Bihar,Purbi Champaran,845427,HIGH RISK - Action Required,236.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.02854619173247941
+Karnataka,Bengaluru Urban,562106,HIGH RISK - Action Required,158.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.027730363689763338
+West Bengal,24 Paraganas North,700102,HIGH RISK - Action Required,157.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.027730363689763338
+West Bengal,24 Paraganas North,700121,HIGH RISK - Action Required,158.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.027730363689763338
+Karnataka,Bengaluru Urban,560076,HIGH RISK - Action Required,811.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.027115188198770235
+Karnataka,Bengaluru Urban,560041,HIGH RISK - Action Required,132.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.026816166146516718
+West Bengal,24 Paraganas North,700049,HIGH RISK - Action Required,134.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.026816166146516718
+Delhi,Central Delhi,110054,HIGH RISK - Action Required,146.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.02671047132958526
+West Bengal,24 Paraganas North,743249,HIGH RISK - Action Required,155.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.02671047132958526
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,396230,HIGH RISK - Action Required,716.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.026605485585930455
+Uttar Pradesh,Shravasti,271803,HIGH RISK - Action Required,651.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.026605485585930455
+West Bengal,24 Paraganas North,743423,HIGH RISK - Action Required,759.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.026605485585930455
+Jharkhand,East Singhbum,831011,HIGH RISK - Action Required,111.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.026328937575968436
+West Bengal,24 Paraganas North,743262,HIGH RISK - Action Required,111.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.026328937575968436
+West Bengal,24 Paraganas North,700124,HIGH RISK - Action Required,135.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.026201042450028078
+Delhi,North Delhi,110039,HIGH RISK - Action Required,695.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.026096127714266615
+Karnataka,Bengaluru Rural,560049,HIGH RISK - Action Required,762.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.026096127714266615
+Karnataka,Bengaluru Urban,560091,HIGH RISK - Action Required,792.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.026096127714266615
+Punjab,S.A.S Nagar,140301,HIGH RISK - Action Required,705.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.026096127714266615
+Andhra Pradesh,Spsr Nellore,524315,HIGH RISK - Action Required,217.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.02548734510293671
+Andhra Pradesh,Visakhapatanam,531029,HIGH RISK - Action Required,226.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.02548734510293671
+Delhi,North Delhi,110040,HIGH RISK - Action Required,804.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.02507844526195102
+Karnataka,Bengaluru Rural,560087,HIGH RISK - Action Required,610.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.021361897083325476
+Delhi,New Delhi,110057,HIGH RISK - Action Required,100.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.020746961087847793
+West Bengal,24 Paraganas North,700056,HIGH RISK - Action Required,98.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.020746961087847793
+West Bengal,24 Paraganas North,743245,HIGH RISK - Action Required,100.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.020746961087847793
+Gujarat,Banas Kantha,385135,HIGH RISK - Action Required,361.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.02070783749177396
+Assam,Cachar,782448,HIGH RISK - Action Required,534.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.020350616529910437
+Gujarat,Banas Kantha,385560,HIGH RISK - Action Required,130.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.02034635271702734
+West Bengal,Dinajpur Uttar,733129,HIGH RISK - Action Required,786.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.019936644878979393
+Karnataka,Bengaluru Urban,560061,HIGH RISK - Action Required,572.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.01984548918573259
+Karnataka,Bengaluru Urban,560062,HIGH RISK - Action Required,576.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.01984548918573259
+Uttar Pradesh,Aligarh,262907,HIGH RISK - Action Required,517.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.01984548918573259
+Chhattisgarh,Gaurella Pendra Marwahi,495118,HIGH RISK - Action Required,188.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.018398141726413075
+Assam,Sivasagar,785684,HIGH RISK - Action Required,91.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.01671335601659063
+Delhi,South Delhi,110029,HIGH RISK - Action Required,88.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.01671335601659063
+Karnataka,Bengaluru Urban,560046,HIGH RISK - Action Required,89.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.01671335601659063
+Andhra Pradesh,Spsr Nellore,524305,HIGH RISK - Action Required,183.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.01538040778212213
+Andhra Pradesh,Spsr Nellore,524223,HIGH RISK - Action Required,81.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.01520637396747393
+Delhi,New Delhi,110037,HIGH RISK - Action Required,465.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.012801684510439282
+Karnataka,Bengaluru Urban,560097,HIGH RISK - Action Required,510.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.012801684510439282
+Gujarat,Dang,394710,HIGH RISK - Action Required,539.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.012236217383812198
+West Bengal,24 Paraganas North,700125,HIGH RISK - Action Required,480.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.012236217383812198
+Bihar,Purbi Champaran,845440,HIGH RISK - Action Required,451.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.009170199412726565
+Karnataka,Bengaluru Urban,560058,HIGH RISK - Action Required,463.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.009170199412726565
+Karnataka,Bengaluru Urban,562125,HIGH RISK - Action Required,464.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.00767851262510344
+Karnataka,Bengaluru Urban,560048,HIGH RISK - Action Required,464.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.007181956153216373
+West Bengal,Medinipur West,721201,HIGH RISK - Action Required,122.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates",-0.007018562316417176
+Karnataka,Bengaluru Urban,562157,HIGH RISK - Action Required,69.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.006516340857232961
+Andhra Pradesh,Spsr Nellore,524002,HIGH RISK - Action Required,65.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.006020570428916572
+Andhra Pradesh,Spsr Nellore,524413,HIGH RISK - Action Required,65.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.006020570428916572
+Karnataka,Bengaluru Urban,560099,HIGH RISK - Action Required,455.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.005694300927201246
+West Bengal,24 Paraganas North,743271,HIGH RISK - Action Required,61.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.005030035299604774
+Andhra Pradesh,Spsr Nellore,524322,HIGH RISK - Action Required,125.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates",-0.004889523155271469
+Karnataka,Bengaluru Urban,560047,HIGH RISK - Action Required,420.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.004209662220249655
+Gujarat,Ahmadabad,382421,HIGH RISK - Action Required,415.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.002728033915764594
+Karnataka,Bengaluru Urban,560085,HIGH RISK - Action Required,399.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.0022348257371928026
+Karnataka,Bengaluru Urban,560037,HIGH RISK - Action Required,882.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.001495928886403708
+Karnataka,Bengaluru Urban,560077,HIGH RISK - Action Required,903.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.001495928886403708
+Karnataka,Bengaluru Urban,560100,HIGH RISK - Action Required,889.0,"Sustained High Speed, Abnormally Low Bio Updates, Impossible Speed Spike",-0.001495928886403708
+Gujarat,Banas Kantha,385130,HIGH RISK - Action Required,191.0,"Abnormally Low Bio Updates, Impossible Speed Spike",-0.001364381562822592
+Maharashtra,Aurangabad,431001,HIGH RISK - Action Required,8628.0,"Sustained High Speed, Impossible Speed Spike",-0.0005724565330846865
+Maharashtra,Hingoli,431712,HIGH RISK - Action Required,337.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates",-0.0003127562838793896
+Assam,Sivasagar,785697,HIGH RISK - Action Required,57.0,"Sustained High Speed, Abnormally Low Bio Updates",-0.00029740986315740514
+Uttar Pradesh,Mathura,272153,HIGH RISK - Action Required,861.0,"Suspicious Weekend Activity, Sustained High Speed, Abnormally Low Bio Updates",-0.00012496973296927116

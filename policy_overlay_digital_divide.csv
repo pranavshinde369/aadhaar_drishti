@@ -1,0 +1,448 @@
+state,district,pincode,velocity_q3,volume_sum,volume_median,elderly_pressure_median,child_ratio_mean,bio_sum,bio_compliance_rate,recommended_action
+West Bengal,Koch Bihar,736146,0.0,261.0,2.0,20.0,0.27320025653358987,904.0,3.450381679389313,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Koch Bihar,736159,0.0,312.0,2.0,14.0,0.37339841126969836,1395.0,4.456869009584665,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733207,57.0,4847.0,29.0,13.875,0.4466829419851918,9993.0,2.061262376237624,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Koch Bihar,736135,0.0,313.0,2.0,13.5,0.32330657063277385,1249.0,3.977707006369427,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Lucknow,226003,12.0,4699.0,19.0,12.75,0.39926751775691666,21410.0,4.55531914893617,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733202,54.0,4391.0,28.0,12.055194805194805,0.42545649176188227,9883.0,2.2502276867030964,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North 24 Parganas,743423,5.0,1774.0,12.0,12.0,0.5065879622500206,6697.0,3.7729577464788733,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Koch Bihar,736156,0.0,154.0,1.0,12.0,0.3012508903133903,754.0,4.864516129032258,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,South Dinajpur,733132,0.0,171.0,1.0,12.0,0.3539760120405282,608.0,3.5348837209302326,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Kolkata,700023,3.0,1106.0,4.0,11.8,0.2755654786653213,4071.0,3.6775067750677506,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North 24 Parganas,743424,5.75,954.0,7.0,11.083333333333332,0.5216947951185894,4332.0,4.536125654450262,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Varanasi,221001,26.0,5930.0,19.0,10.857142857142858,0.32392187724552624,26463.0,4.461810824481538,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733208,14.25,1964.0,15.0,10.766666666666666,0.4999179606137241,9063.0,4.6122137404580155,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Nadia,741126,2.0,1131.0,4.0,10.2,0.42997952768071274,5056.0,4.46643109540636,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733201,21.0,2550.0,19.0,10.2,0.5041231110148813,6896.0,2.7032536260290083,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Meerut,250002,11.0,9152.0,36.0,10.058823529411764,0.45844097703897047,43111.0,4.710040423904731,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Gopalganj,841405,4.0,2204.0,6.0,10.0,0.24644237636645666,9879.0,4.480272108843537,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,South 24 Parganas,743376,6.0,1310.0,10.0,9.933333333333334,0.5044814984498777,6246.0,4.7643020594965675,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Muzaffarpur,843119,4.0,2077.0,8.0,9.833333333333334,0.34656261524851106,10164.0,4.891241578440808,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Jalpaiguri,735210,7.5,925.0,5.0,9.75,0.29902029759467724,4509.0,4.869330453563715,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Rajasthan,Jodhpur,342001,6.75,6436.0,19.0,9.667981727574752,0.5038061530816791,27392.0,4.255398477551655,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733129,8.0,1495.0,5.0,9.666666666666666,0.41805498945962477,4971.0,3.322860962566845,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Darjeeling,734003,3.0,1028.0,1.0,9.5,0.25075351220351094,3286.0,3.193391642371234,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Nadia,741501,1.0,753.0,2.0,9.5,0.3506412844380023,2589.0,3.43368700265252,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Ghaziabad,201102,29.75,6461.0,26.0,9.360681114551085,0.3337555197252049,30554.0,4.72825750541628,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,South Salmara Mankachar,783135,5.0,702.0,4.0,9.285714285714286,0.4763196623561463,2031.0,2.8890469416785205,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Malda,732124,8.0,1505.0,7.0,9.281818181818181,0.3860734990123122,5182.0,3.4409030544488712,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733210,34.5,3150.0,25.0,9.22222222222222,0.5090133134482595,13234.0,4.1999365280863215,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,497778,1.0,159.0,1.0,9.2,0.3075647199242705,102.0,0.6375,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,East Champaran,845305,15.25,1724.0,12.0,9.190909090909091,0.16884930488569502,7928.0,4.595942028985507,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Kanpur Nagar,208001,32.0,6687.0,21.0,9.125,0.3652694675418679,27541.0,4.117972488038277,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,West Champaran,845438,39.0,4951.0,20.0,9.083333333333334,0.2956390021420213,21925.0,4.427504038772213,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North 24 Parganas,743425,18.0,1360.0,11.5,9.069444444444445,0.519991666967895,6246.0,4.589272593681117,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Aligarh,202001,44.0,11678.0,31.0,9.03225806451613,0.3961931491319417,57205.0,4.8981077147016014,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Darjiling,734434,0.0,222.0,2.0,9.0,0.36309068124857596,253.0,1.1345291479820627,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Hojai,782435,10.0,1762.0,6.0,9.0,0.42774432767747766,5637.0,3.1973908111174136,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Muzaffarpur,843111,4.5,3301.0,7.0,9.0,0.3184772163164943,9136.0,2.7668079951544517,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Jalpaiguri,735135,2.0,1075.0,2.0,9.0,0.3148538437717891,3255.0,3.025092936802974,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Birbhum,731204,1.5,1089.0,3.0,9.0,0.4477308887866073,5175.0,4.747706422018348,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Sitamarhi,843315,4.0,1618.0,3.0,9.0,0.22375500413401336,5556.0,3.431747992588017,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Koch Bihar,736131,0.0,168.0,1.0,9.0,0.3128320375769355,750.0,4.437869822485207,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Jalpaiguri,735202,1.0,438.0,1.0,9.0,0.1081387200270179,1880.0,4.28246013667426,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Balrampur,271208,7.0,1991.0,7.5,8.875,0.21459928235634684,9499.0,4.768574297188755,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North 24 Parganas,743251,1.75,724.0,4.5,8.875,0.47072300708691817,2652.0,3.6579310344827585,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Sitamarhi,843302,12.0,7087.0,16.5,8.869747899159664,0.3249072755041924,22802.0,3.2169864559819414,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,South Salmara Mankachar,783131,3.0,520.0,2.0,8.708333333333332,0.3616740392407393,1324.0,2.5412667946257197,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Muzaffarpur,843109,4.0,2225.0,6.0,8.615384615384615,0.32308459963551894,8190.0,3.6792452830188678,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Unnao,209801,13.0,8096.0,20.0,8.5625,0.3397329205406813,29174.0,3.603062862788687,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,East Champaran,845301,7.0,1775.0,6.5,8.458333333333334,0.18249795774789795,8491.0,4.780968468468468,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Rampur,244901,19.0,9506.0,27.0,8.433333333333334,0.43720999720612086,41171.0,4.330598506363732,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Gopalganj,841438,11.0,2623.0,7.0,8.428571428571429,0.2123956078040698,9660.0,3.6814024390243905,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,East Champaran,845303,12.0,2176.0,6.0,8.428104575163399,0.16336734948110518,7838.0,3.600367478180983,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,West Champaran,845307,6.75,2208.0,7.0,8.354166666666668,0.18622562687652638,8583.0,3.8854685377999094,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733209,14.25,1042.0,8.0,8.291666666666668,0.494871101793683,4401.0,4.219558964525407,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Muzaffarpur,842002,4.0,2075.0,5.0,8.285714285714286,0.2919366567858584,9051.0,4.359826589595376,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North 24 Parganas,743262,2.25,540.0,2.5,8.25,0.4516742962055462,1905.0,3.521256931608133,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Murshidabad,742202,56.0,3574.0,21.0,8.222222222222221,0.6144723040682629,7692.0,2.1516083916083915,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733134,17.0,1662.0,11.0,8.222222222222221,0.524245561477158,8040.0,4.834636199639206,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Sitamarhi,843331,4.0,4082.0,8.0,8.2125,0.37271978817021706,13832.0,3.387705118785207,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,West Champaran,845306,5.5,1475.0,4.0,8.166666666666666,0.1722814407100358,5016.0,3.3983739837398375,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Sitapur,261205,3.0,3938.0,4.0,8.133333333333333,0.23698359375693845,15791.0,4.008885503935009,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Darjeeling,734434,6.0,518.0,4.0,8.0,0.43696549129196643,1396.0,2.6897880539499037,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,East Champaran,845433,9.25,2181.0,11.0,7.966666666666667,0.2120269027313216,8730.0,4.000916590284143,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Munger,811213,9.0,2412.0,5.0,7.875,0.2607568864962847,9556.0,3.9602154993783674,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Bahraich,271801,20.0,4329.0,14.0,7.875,0.3476661443427003,15918.0,3.6762124711316395,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Paschim Medinipur,721127,5.0,799.0,5.5,7.875,0.40822154918313025,3367.0,4.20875,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Sitamarhi,843324,6.0,6989.0,12.0,7.8,0.36321758470656107,17155.0,2.4542203147353363,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Budaun,243638,12.0,2576.0,9.0,7.777777777777778,0.2789874140604506,11220.0,4.353899883585565,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,West Champaran,845449,10.0,3126.0,13.0,7.761904761904762,0.23258091597714017,9919.0,3.1720498880716343,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Darjeeling,734014,3.0,499.0,1.0,7.75,0.29942199130762936,2210.0,4.42,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,East Champaran,845401,22.0,3316.0,15.0,7.697368421052632,0.20171240329393758,16293.0,4.9119686463672,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,South 24 Parganas,743363,3.0,486.0,3.0,7.666666666666667,0.4356398951624128,2395.0,4.917864476386037,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Koch Bihar,736145,0.0,114.0,1.0,7.666666666666667,0.20815018315018316,296.0,2.5739130434782607,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Bahraich,271881,2.5,1976.0,4.0,7.666666666666667,0.1777927564185954,4838.0,2.4471421345472937,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,West Champaran,845455,20.0,2980.0,11.0,7.647058823529412,0.2583923604087398,13396.0,4.493794028849379,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Patna,800001,4.0,2131.0,5.0,7.625,0.18312769937284018,7083.0,3.322232645403377,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,East Champaran,845304,3.0,1319.0,4.0,7.607142857142858,0.3109184475988693,6234.0,4.722727272727273,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Maharashtra,Raigad,410206,8.0,2008.0,5.0,7.6,0.4050195594373022,3856.0,1.9193628670980587,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Patna,801110,3.0,1774.0,3.0,7.556818181818182,0.14809436017478414,7355.0,4.143661971830986,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Bareilly,243201,8.5,5656.0,15.0,7.55,0.4449487661342068,21268.0,3.7595898886335513,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Sitapur,261201,5.0,5690.0,13.0,7.533333333333333,0.35389775004031304,24317.0,4.272887014584431,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,East Champaran,845415,4.0,1468.0,4.0,7.5,0.15569269607362093,6868.0,4.675289312457454,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Sitamarhi,843317,6.5,3769.0,9.0,7.5,0.3343217249622177,9267.0,2.4580901856763924,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Bahraich,271865,29.0,5731.0,14.0,7.5,0.20957013408544345,22280.0,3.886950453593859,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Koch Bihar,735301,0.0,73.0,0.0,7.5,0.15396825396825398,254.0,3.4324324324324325,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Budaun,243601,11.75,4782.0,20.0,7.4686147186147185,0.4022558058193571,21968.0,4.592933305456826,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Chhattisgarh,Balrampur,497223,4.0,1205.0,3.0,7.458333333333334,0.4386888759100107,3504.0,2.9054726368159205,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Gautam Buddha Nagar,201301,9.0,8373.0,22.0,7.428571428571429,0.3651045823266635,23558.0,2.8132314306185813,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Bareilly,243001,7.0,4843.0,14.0,7.4,0.3826510194890536,16067.0,3.3168868703550785,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Dakshin Dinajpur,733121,7.0,775.0,3.5,7.380952380952381,0.467690222445614,3715.0,4.787371134020619,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Nadia,741502,3.0,1399.0,3.0,7.375,0.41626623033859694,3998.0,2.855714285714286,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup,781136,4.0,2740.0,7.0,7.375,0.4653089127763159,6112.0,2.229843122947829,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Sitamarhi,843330,4.25,2678.0,4.0,7.366666666666667,0.23680092076459447,5485.0,2.047405748413587,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Muzaffarpur,843108,2.0,694.0,2.0,7.333333333333333,0.18646536795367635,3302.0,4.751079136690647,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Sitamarhi,843327,12.75,2272.0,10.0,7.331730769230769,0.32425915388820414,8745.0,3.847338319401672,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Bhagalpur,853204,11.5,3038.0,7.0,7.3125,0.35132085264051827,13370.0,4.399473511023363,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Bahraich,271902,7.0,3128.0,13.0,7.300000000000001,0.2070799959722522,13564.0,4.334931287951422,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Meerut,250001,20.5,5162.0,20.5,7.271221532091097,0.42638515817063954,23995.0,4.647491768351734,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Darjiling,734426,0.0,115.0,1.0,7.25,0.23221340388007053,448.0,3.8620689655172415,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,West Champaran,845453,7.0,1800.0,11.5,7.241071428571429,0.22915085624715792,8581.0,4.764575235980011,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733156,6.0,1203.0,3.0,7.2,0.4060755585305749,3734.0,3.101328903654485,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Dakshin Dinajpur,733132,11.0,900.0,5.0,7.166666666666667,0.5200168398757259,3002.0,3.331853496115427,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kokrajhar,783370,2.0,1906.0,4.0,7.0,0.3472560722837538,5412.0,2.8379653906659676,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Tinsukia,786170,3.0,614.0,2.0,7.0,0.3238571255968163,1453.0,2.3626016260162603,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Kolkata,700016,2.0,666.0,2.5,7.0,0.2680597279926788,2175.0,3.260869565217391,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Jalpaiguri,735218,2.0,550.0,3.0,7.0,0.2559504664539279,1891.0,3.4319419237749544,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Tinsukia,786171,2.0,831.0,2.0,7.0,0.3108099813841985,1115.0,1.3401442307692308,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733215,19.0,1376.0,9.0,7.0,0.481711777076454,5069.0,3.681190994916485,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Madhya Pradesh,Mauganj,486331,0.0,172.0,1.0,7.0,0.34081314666421053,488.0,2.820809248554913,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Saran,841403,3.0,2299.0,6.0,7.0,0.1986521476123833,6639.0,2.8865217391304347,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Sitamarhi,843313,4.75,1797.0,5.5,7.0,0.3217383100236157,5438.0,3.024471635150167,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Saran,841301,7.0,2704.0,13.0,7.0,0.2130787177798258,10661.0,3.9412199630314233,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup,781102,3.0,1329.0,4.0,6.944444444444445,0.4507680318002445,3861.0,2.9030075187969926,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dhubri,783348,5.25,2537.0,12.0,6.923076923076923,0.40691978192623196,8503.0,3.3502758077226162,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Shahjahanpur,242001,9.25,8470.0,25.0,6.898459383753501,0.4186007783141235,38406.0,4.533821272577027,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Bhojpur,802301,3.0,1751.0,7.5,6.872781065088757,0.2021463886626076,7259.0,4.143264840182648,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Fatehpur,212601,7.5,3764.0,14.0,6.861660079051384,0.3692892002217802,17107.0,4.543691899070385,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup,781354,9.0,1595.0,6.0,6.8,0.4439531358598229,3630.0,2.274436090225564,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Gautam Buddha Nagar,201310,3.0,1926.0,6.0,6.794642857142858,0.28512623548220223,5001.0,2.5952257394914375,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Muzaffarpur,842001,4.0,1555.0,5.0,6.775,0.2626786363898351,7586.0,4.875321336760925,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Jamui,811303,4.25,1894.0,7.0,6.770833333333334,0.3048310783163507,7729.0,4.078627968337731,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Madhubani,847108,5.0,3396.0,8.0,6.764705882352941,0.21980244214140218,9179.0,2.702090079481896,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,South 24 Parganas,700066,5.0,402.0,3.0,6.75,0.1889394203599783,1587.0,3.937965260545906,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,East Champaran,845302,8.0,2346.0,8.0,6.690476190476191,0.2091136797027747,8906.0,3.7946314443971025,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Murshidabad,742224,5.0,1542.0,11.0,6.666666666666667,0.5767802830504497,4954.0,3.2106286454957873,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Siwan,841406,3.0,1285.0,6.0,6.666666666666667,0.20656896806615122,5479.0,4.26049766718507,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Madhubani,847232,3.5,1457.0,3.0,6.666666666666667,0.24750560934961752,6415.0,4.399862825788752,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Tinsukia,786151,2.0,871.0,2.0,6.666666666666667,0.24127578489188636,1354.0,1.5527522935779816,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dibrugarh,786610,2.0,536.0,1.0,6.666666666666667,0.2551290463861753,1525.0,2.839851024208566,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Murshidabad,742201,5.0,1345.0,11.0,6.6,0.5584426085905577,3623.0,2.6916790490341755,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Gorakhpur,273001,6.0,2329.0,8.0,6.571428571428571,0.24665527137985044,7361.0,3.1592274678111587,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733123,5.0,562.0,3.0,6.55,0.46855953523600585,2716.0,4.824156305506217,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Bhagalpur,812005,5.0,2839.0,9.0,6.541666666666666,0.33890427932271805,9808.0,3.453521126760563,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Koch Bihar,736133,0.0,71.0,0.0,6.5,0.23106060606060605,267.0,3.7083333333333335,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Koch Bihar,736172,0.0,93.0,0.0,6.5,0.2097567287784679,393.0,4.180851063829787,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Cooch Behar,736167,5.0,804.0,2.0,6.461538461538462,0.31731606482447083,2027.0,2.5180124223602482,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Bahraich,271830,3.0,2882.0,5.0,6.444444444444445,0.15437151294843385,9149.0,3.1734304543877907,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Hojai,782446,10.75,2935.0,6.5,6.4375,0.4773060724460038,7679.0,2.6154632152588557,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Gautam Buddha Nagar,201306,4.25,3426.0,9.0,6.432773109243698,0.34671095803580776,7581.0,2.212138896994456,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Chandauli,232101,5.5,2995.0,9.0,6.4,0.29244810765182244,12504.0,4.173564753004006,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Banda,210121,5.0,2860.0,7.0,6.4,0.3178397944793579,12912.0,4.513107305138064,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Suryapet,508222,1.0,99.0,0.0,6.366666666666667,0.27597049689440994,371.0,3.71,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Rajasthan,Alwar,301001,9.0,6105.0,19.5,6.366220735785953,0.4861144122116019,26249.0,4.298886341303636,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Mainpuri,205001,7.75,3579.0,14.0,6.364102564102565,0.33164723824887743,14185.0,3.962290502793296,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Hardoi,241001,5.5,6311.0,19.0,6.36,0.3958558249252127,28053.0,4.444391634980988,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Hardoi,241124,5.0,3235.0,9.0,6.354166666666666,0.3236600048280662,12772.0,3.9468479604449938,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Cooch Behar,736135,11.0,1953.0,7.0,6.333333333333333,0.43135446928208837,3500.0,1.7911975435005119,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Gorakhpur,273015,3.0,1939.0,6.0,6.330357142857142,0.24837422218467517,8059.0,4.1541237113402065,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Haryana,Faridabad,121004,32.0,7957.0,21.0,6.307692307692308,0.5602993501895321,37684.0,4.735360643377733,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Nawada,805109,8.0,1221.0,6.0,6.291666666666666,0.12143610761355475,4249.0,3.4770867430441896,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Malda,732139,10.5,915.0,6.0,6.285714285714286,0.488627204957724,4470.0,4.879912663755459,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Azamgarh,276404,7.0,1489.0,7.0,6.285714285714286,0.2830336004259364,6886.0,4.621476510067114,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Delhi,Shahdara,110032,0.0,1423.0,1.0,6.285714285714286,0.3001080007609858,2927.0,2.0554775280898876,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Gaya,823001,7.0,3219.0,10.0,6.280303030303031,0.2009302316032769,9713.0,3.0164596273291924,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Puruliya,723155,5.0,480.0,4.0,6.25,0.3030807962882603,1783.0,3.7068607068607067,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Murshidabad,742212,2.5,568.0,4.0,6.25,0.49095325606625917,1918.0,3.3708260105448153,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Nawada,805104,4.0,1479.0,6.0,6.25,0.10027633144432126,5850.0,3.9527027027027026,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Nawada,805103,5.0,1477.0,7.5,6.2,0.12224786852089731,6280.0,4.2489851150202975,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Tinsukia,786181,1.0,630.0,1.0,6.166666666666666,0.2624858050212619,486.0,0.7702060221870047,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Unnao,209861,3.0,1988.0,6.0,6.166666666666666,0.3295179573216006,8112.0,4.078431372549019,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Gopalganj,841409,11.25,1325.0,6.0,6.142857142857142,0.19531532283086162,5049.0,3.8076923076923075,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Etah,207001,22.5,5955.0,13.0,6.111111111111111,0.4103574909147712,26622.0,4.469778374748153,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Madhya Pradesh,Jhabua,457661,38.5,6740.0,27.0,6.074074074074074,0.3544431630856237,28025.0,4.157395045245512,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Nawada,805121,3.0,928.0,3.0,6.071428571428571,0.10564835797468053,3346.0,3.6017222820236814,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Nadia,741223,2.0,608.0,2.0,6.0,0.3888436865922274,2222.0,3.6486042692939247,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup,781123,2.5,742.0,3.0,6.0,0.4343105891904837,1752.0,2.358008075370121,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Saharsa,852127,6.0,2853.0,11.0,6.0,0.3475328492804892,13963.0,4.892431674842326,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Nawada,805110,4.0,1436.0,5.0,6.0,0.14370987099351673,6870.0,4.780793319415449,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,South Twenty Four Parganas,743329,0.0,224.0,1.0,6.0,0.31746268505271275,1063.0,4.724444444444444,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,South 24 Parganas,743611,6.0,420.0,3.0,6.0,0.3835036854574334,1750.0,4.156769596199525,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733216,1.0,231.0,1.0,6.0,0.2504610509765149,598.0,2.5775862068965516,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Vikarabad,501101,3.0,384.0,3.0,6.0,0.44852710202643653,1648.0,4.28051948051948,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Bhojpur,802160,4.0,336.0,2.0,6.0,0.10911583677760146,1390.0,4.1246290801186944,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Bhagalpur,813213,8.0,1719.0,5.0,6.0,0.24980133888147088,8021.0,4.663372093023256,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784505,2.0,479.0,2.0,6.0,0.3252070589417569,1457.0,3.035416666666667,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Marigaon,782127,4.0,2112.0,7.0,6.0,0.4747404092925641,6214.0,2.9408424041646946,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Udalguri,784509,3.0,852.0,4.0,6.0,0.3396633436237396,3623.0,4.24736225087925,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Lakhimpur,787031,3.0,1069.0,4.0,6.0,0.45045483402300274,4565.0,4.266355140186916,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Darjeeling,734429,3.0,825.0,1.5,6.0,0.20358860768764464,1994.0,2.414043583535109,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Lakhimpur,784160,3.0,1381.0,5.0,6.0,0.404992778829976,3460.0,2.503617945007236,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Koch Bihar,736170,0.0,74.0,0.5,6.0,0.2504399585921325,121.0,1.6133333333333333,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Golaghat,785601,2.0,1609.0,4.0,6.0,0.335373638175999,4815.0,2.9906832298136647,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Barpeta,781308,7.0,2545.0,8.0,6.0,0.4529141827587835,9897.0,3.887274155538099,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karbi Anglong,782480,5.0,2023.0,6.0,5.916666666666666,0.3417886298312547,6983.0,3.450098814229249,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Sitamarhi,843332,4.0,2092.0,5.0,5.916666666666666,0.2730350483040294,5964.0,2.849498327759197,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Bhojpur,802201,2.25,762.0,5.0,5.9,0.1181003941822326,3726.0,4.883355176933159,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Sultanpur,228001,8.5,3051.0,10.0,5.897321428571429,0.3631744824456303,11879.0,3.8922018348623855,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Darjeeling,734010,1.0,768.0,1.0,5.875,0.22511912991192584,2477.0,3.221066319895969,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Malda,732126,5.0,428.0,2.0,5.866666666666667,0.3409503205698637,2089.0,4.869463869463869,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Nalanda,803101,8.0,3736.0,15.0,5.857142857142857,0.17423492470185922,15320.0,4.099545089644099,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Saran,841211,4.0,1058.0,4.0,5.857142857142857,0.14228745141541244,2891.0,2.7299338999055713,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Goalpara,783129,3.0,3318.0,8.0,5.857142857142857,0.4919727816968987,7193.0,2.1672190418800845,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Birbhum,731222,5.0,795.0,6.0,5.833333333333334,0.4917577090011339,3070.0,3.85678391959799,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Rajasthan,Sirohi,307026,7.0,3941.0,10.0,5.8125,0.3244438647939277,19231.0,4.878488077118214,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784101,1.0,371.0,2.0,5.75,0.29717875984878145,980.0,2.6344086021505375,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Jehanabad,804418,2.0,758.0,2.0,5.75,0.10751639143963627,2631.0,3.466403162055336,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Saran,841424,4.0,1377.0,6.0,5.732142857142858,0.22571208700206913,6759.0,4.904934687953556,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Agra,282001,12.0,8551.0,22.0,5.730769230769231,0.4049460191983208,29278.0,3.4235266604303085,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Murshidabad,742223,3.25,867.0,5.0,5.708333333333334,0.5338309119509451,3292.0,3.792626728110599,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Murshidabad,742184,1.0,280.0,1.0,5.7,0.4250143473547729,1010.0,3.5943060498220643,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dhemaji,787061,1.0,489.0,1.0,5.666666666666667,0.22606284297305315,1725.0,3.520408163265306,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Tinsukia,786125,2.0,669.0,2.0,5.666666666666667,0.23461354292853126,1723.0,2.571641791044776,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784110,8.0,1498.0,5.0,5.625,0.39379000436581474,2694.0,1.7971981320880588,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Gaya,824231,3.0,2022.0,6.0,5.625,0.17259381703158766,7128.0,3.523479980227385,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Cooch Behar,736134,6.0,809.0,3.0,5.6,0.40166864587550755,2523.0,3.1148148148148147,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Madhubani,847421,5.0,1964.0,5.0,5.6,0.22219584861800262,5459.0,2.778117048346056,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Marigaon,782105,3.25,1704.0,4.0,5.535714285714286,0.39482624690820933,3026.0,1.7747800586510263,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Marigaon,782410,5.0,1602.0,2.0,5.535714285714286,0.3725767359534579,1795.0,1.1197754210854647,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Cooch Behar,736176,2.0,218.0,1.5,5.5,0.3235560391145497,608.0,2.776255707762557,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Darrang,784145,5.0,1053.0,5.0,5.5,0.3500564584122719,4004.0,3.7988614800759013,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Marigaon,782104,3.0,638.0,3.0,5.5,0.3479101284917587,2777.0,4.34585289514867,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Tinsukia,786152,1.0,452.0,1.0,5.5,0.28451118184425334,1379.0,3.0441501103752757,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Suryapet,508221,2.0,170.0,1.0,5.5,0.36286013041332194,836.0,4.888888888888889,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Golaghat,785614,4.0,1143.0,2.0,5.5,0.3049402183682309,2128.0,1.8601398601398602,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,West Midnapore,721150,0.0,89.0,0.0,5.5,0.2288888888888889,257.0,2.8555555555555556,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Hardoi,241402,3.0,2187.0,7.5,5.483333333333333,0.24852150743799395,8621.0,3.940127970749543,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Bahraich,271855,48.0,7167.0,17.0,5.482142857142858,0.27873414583950334,20643.0,2.8798828125,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Tamil Nadu,Chengalpattu,600100,0.0,129.0,0.5,5.472222222222222,0.21297619047619049,566.0,4.3538461538461535,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784149,3.0,343.0,1.0,5.464285714285714,0.32965566275839536,1678.0,4.877906976744186,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Maharajganj,273305,4.0,1699.0,5.0,5.458333333333334,0.21109354353922358,4982.0,2.9305882352941177,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup,781137,3.0,1348.0,4.0,5.428571428571429,0.4435613059904541,2911.0,2.1578947368421053,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Goalpara,783101,3.0,1360.0,7.0,5.428571428571429,0.4637972700848663,4552.0,3.3445995591476856,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dibrugarh,785675,1.25,708.0,2.0,5.416666666666666,0.2582042447374391,1809.0,2.55148095909732,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dhubri,783371,4.25,439.0,3.0,5.416666666666666,0.33537887945387945,2109.0,4.793181818181818,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Kasganj,207243,10.0,1783.0,5.0,5.4,0.23212893523759567,7929.0,4.444506726457399,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Kheri,262903,5.0,1625.0,6.0,5.4,0.22392838365745074,7971.0,4.902214022140221,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Marigaon,782126,9.0,1213.0,5.0,5.4,0.34928240896234874,5149.0,4.241350906095552,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Mainpuri,206301,3.0,1105.0,4.0,5.388888888888889,0.2553604101873648,4629.0,4.185352622061483,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karimganj,788724,11.5,2013.0,6.0,5.363636363636363,0.4271481735580457,3164.0,1.571002979145978,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Jaunpur,222139,5.0,1671.0,4.5,5.333333333333333,0.15767533306190062,7984.0,4.77511961722488,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Karnataka,Bengaluru,560077,5.0,940.0,3.0,5.333333333333333,0.30607134815671744,4596.0,4.884165781083953,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Cachar,788104,1.0,380.0,1.0,5.333333333333333,0.26454057924646157,1125.0,2.952755905511811,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784182,2.0,521.0,1.0,5.333333333333333,0.3217628529904836,2381.0,4.561302681992337,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Maharajganj,273164,6.75,4143.0,11.0,5.326470588235294,0.2375334247959913,10274.0,2.4792471042471043,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Aligarh,202133,4.0,2132.0,7.0,5.322916666666666,0.24339723335001387,9260.0,4.3413033286451,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dhemaji,787059,2.0,1340.0,4.0,5.300000000000001,0.36000438223182285,4226.0,3.1513795674869503,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North 24 Parganas,743290,1.25,359.0,1.0,5.291666666666666,0.3368582257535746,1146.0,3.183333333333333,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dhubri,783334,6.25,1640.0,8.0,5.267857142857142,0.517072499922018,6378.0,3.886654478976234,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Varanasi,221107,3.0,1414.0,4.5,5.267857142857142,0.24222192601859785,6091.0,4.304593639575971,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Cooch Behar,736171,2.75,223.0,1.5,5.25,0.34356325863678805,1094.0,4.883928571428571,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Kanpur Nagar,209402,2.0,1040.0,4.0,5.25,0.26645209046154406,3998.0,3.840537944284342,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karimganj,788712,10.0,1291.0,5.0,5.2,0.4504798362006563,1962.0,1.5185758513931888,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dhubri,783349,4.0,893.0,5.0,5.2,0.3963855119875316,2410.0,2.6957494407158835,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Udalguri,784507,3.0,568.0,1.0,5.166666666666666,0.22271532388748622,1687.0,2.9648506151142353,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dibrugarh,786602,1.0,559.0,1.0,5.166666666666666,0.2305293205983547,1396.0,2.492857142857143,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dhemaji,787060,3.5,1547.0,5.0,5.142857142857143,0.29863033616717505,3302.0,2.1330749354005167,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Cooch Behar,736168,6.0,510.0,4.0,5.142857142857143,0.4121504978301095,1237.0,2.420743639921722,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Goalpara,783126,3.0,1036.0,5.0,5.142857142857143,0.41478950373972945,1906.0,1.8379942140790742,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Malda,732201,20.0,1568.0,13.0,5.125,0.4537065122485869,7058.0,4.498406628425749,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Bahraich,271851,4.5,2073.0,8.0,5.111111111111111,0.23610047865602454,9933.0,4.789296046287367,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Marigaon,782411,4.0,1231.0,4.0,5.1,0.4337090734993916,3758.0,3.050324675324675,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Cachar,788005,2.0,875.0,1.0,5.0,0.320715650520508,3189.0,3.6404109589041096,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Bhojpur,802161,2.5,614.0,5.0,5.0,0.11339094043776143,2964.0,4.819512195121951,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,East Champaran,845315,4.75,624.0,3.0,5.0,0.13129422493010035,3017.0,4.8272,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784111,1.0,274.0,1.0,5.0,0.21839834084894888,915.0,3.327272727272727,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Tinsukia,786182,1.0,767.0,2.0,5.0,0.2060668059863134,816.0,1.0625,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784112,3.0,305.0,2.0,5.0,0.3796431319158592,789.0,2.5784313725490198,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North 24 Parganas,743502,0.0,285.0,2.0,5.0,0.3956217242483241,1328.0,4.643356643356643,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North 24 Parganas,743293,2.0,345.0,2.0,5.0,0.4047815972065188,1702.0,4.91907514450867,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Azamgarh,276305,4.0,1768.0,8.0,5.0,0.18445589033091142,6862.0,3.8790276992651216,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Murshidabad,742226,3.0,812.0,4.0,5.0,0.5416978342634776,3872.0,4.762607626076261,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733132,0.0,93.0,0.0,5.0,0.25207493655769514,323.0,3.4361702127659575,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Jorhat,785634,1.0,475.0,1.0,5.0,0.22003989065603136,1259.0,2.6449579831932772,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup,781135,2.0,383.0,1.0,5.0,0.2801305098889223,907.0,2.3619791666666665,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Hailakandi,788163,3.0,1193.0,3.0,5.0,0.390931672436674,3440.0,2.88107202680067,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Jorhat,785630,2.0,578.0,2.0,5.0,0.3791144260750746,1583.0,2.7340241796200346,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Koch Bihar,736176,0.0,59.0,1.0,5.0,0.2188888888888889,53.0,0.8833333333333333,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Koch Bihar,736168,0.0,149.0,1.0,5.0,0.2794485788867811,228.0,1.52,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North 24 Parganas,743710,1.0,240.0,1.0,5.0,0.3448413593574884,939.0,3.896265560165975,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Barpeta,781314,3.5,2015.0,7.0,5.0,0.46288920197334243,8208.0,4.071428571428571,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Gujarat,Ahmadabad,380001,0.0,1128.0,1.0,5.0,0.24546002900707384,3473.0,3.076173604960142,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Chhattisgarh,Bijapur,494447,5.5,1660.0,3.0,5.0,0.29655085017108723,6256.0,3.7664057796508126,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Lucknow,226005,4.0,1374.0,5.0,5.0,0.3317613521424192,5211.0,3.7898181818181818,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Karnataka,Bengaluru,560100,8.0,1109.0,5.0,5.0,0.3378900080244091,5187.0,4.672972972972973,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Meghalaya,East Garo Hills,794111,3.0,3549.0,4.0,5.0,0.10212460536610368,1315.0,0.3704225352112676,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dibrugarh,786184,1.0,542.0,1.0,5.0,0.2564069066656205,1939.0,3.570902394106814,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Golaghat,785702,3.0,1188.0,2.0,5.0,0.24040960873084072,1121.0,0.9428090832632464,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dhubri,783331,4.0,1336.0,4.0,5.0,0.38066911116919605,4064.0,3.039640987284966,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Madhya Pradesh,Maihar,485881,0.0,95.0,0.0,5.0,0.27578947368421053,464.0,4.833333333333333,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Rajasthan,Udaipur,307025,6.25,1542.0,10.5,5.0,0.2400894236007897,6817.0,4.4180168502916395,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Mancherial,504272,1.0,63.0,0.0,5.0,0.2192156862745098,253.0,3.953125,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Cachar,788817,3.0,978.0,2.0,5.0,0.34595771479982007,2699.0,2.7568947906026557,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Cachar,788815,3.0,1482.0,4.0,5.0,0.3476050335183561,3475.0,2.3432231962238705,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Cachar,788107,2.0,748.0,2.0,5.0,0.33020320899108774,1653.0,2.20694259012016,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Shahjahanpur,242221,5.0,3893.0,9.0,4.954545454545455,0.2847470518703169,15050.0,3.864920390344119,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Cachar,788030,3.0,1320.0,3.0,4.928571428571429,0.35137702237963997,2349.0,1.7781983345950039,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Etah,207249,2.0,982.0,2.0,4.9,0.3085268641563198,4497.0,4.574771108850458,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Mainpuri,205262,7.0,1695.0,6.0,4.9,0.27717049105336006,6128.0,3.6132075471698113,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karimganj,788806,9.0,888.0,5.0,4.9,0.43069195892815115,2302.0,2.5894263217097864,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733214,1.0,127.0,1.0,4.833333333333334,0.1613874305363667,386.0,3.015625,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dhubri,783337,1.0,784.0,2.0,4.833333333333334,0.30814183799421985,1784.0,2.272611464968153,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Peddapalli,505152,0.0,53.0,0.0,4.833333333333334,0.18390151515151515,247.0,4.574074074074074,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Hardoi,241123,5.0,2284.0,6.0,4.833333333333333,0.2991442810417454,10278.0,4.498030634573304,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Jharkhand,Pakur,816107,15.0,5263.0,7.0,4.818181818181818,0.44131296333734,13741.0,2.610372340425532,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Nawada,805123,2.0,811.0,3.0,4.8,0.0802385343387041,2964.0,3.6502463054187193,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Malda,732210,6.0,579.0,4.0,4.8,0.4362271993180648,1862.0,3.2103448275862068,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Vikarabad,509350,2.0,158.0,1.0,4.761904761904762,0.28423674434312735,684.0,4.30188679245283,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karimganj,788728,5.0,683.0,3.0,4.75,0.3231713028904786,1032.0,1.5087719298245614,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Cachar,788101,2.0,605.0,2.0,4.75,0.37780583960870284,2642.0,4.35973597359736,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Uttar Dinajpur,733211,2.0,280.0,2.0,4.75,0.370961038961039,1192.0,4.241992882562277,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Golaghat,785621,2.0,845.0,3.0,4.75,0.2639988297105317,1203.0,1.4219858156028369,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sibsagar,785685,1.0,520.0,1.0,4.733333333333333,0.34255440861063957,1608.0,3.0863723608445297,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Darrang,784115,12.0,1314.0,7.0,4.690476190476191,0.38028022277947987,3443.0,2.618250950570342,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Bahraich,271841,2.0,835.0,1.0,4.675,0.17533890669710248,2988.0,3.574162679425837,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karbi Anglong,782441,4.0,1214.0,3.0,4.666666666666667,0.17228188015148185,5864.0,4.826337448559671,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Lakhimpur,787055,5.0,1104.0,3.0,4.666666666666667,0.4078351624496197,3428.0,3.102262443438914,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karbi Anglong,782448,4.0,612.0,3.0,4.666666666666667,0.20797234238726317,2170.0,3.5399673735725936,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Baksa,781372,1.0,524.0,1.0,4.666666666666667,0.22599385844547548,1363.0,2.5961904761904764,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Madhya Pradesh,Morena,476001,11.0,6915.0,29.5,4.654761904761905,0.5201734706210283,31096.0,4.496240601503759,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Hyderabad,500008,20.0,3795.0,13.0,4.645833333333334,0.49359755268484656,12744.0,3.357218124341412,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Maharashtra,Mumbai Suburban,400072,1.0,1842.0,4.0,4.6410256410256405,0.43201932874553717,7527.0,4.08410200759631,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Baksa,781367,6.0,661.0,3.0,4.625,0.4090301769936627,1678.0,2.5347432024169185,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Hyderabad,500028,7.0,1948.0,6.0,4.625,0.4451870513515667,8898.0,4.5654181631605955,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Darrang,784125,6.0,1077.0,7.5,4.607142857142858,0.3603174130889717,4175.0,3.87291280148423,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Suryapet,508279,1.0,82.0,0.0,4.583333333333334,0.23801759834368533,399.0,4.807228915662651,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Karnataka,Bengaluru,560049,4.0,758.0,3.0,4.571428571428571,0.38079892592571785,3142.0,4.1396574440052705,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dhemaji,787057,3.5,1482.0,5.0,4.5,0.3750916743415662,3039.0,2.0492245448415374,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kokrajhar,783350,1.0,448.0,1.0,4.5,0.16621434314823355,1837.0,4.091314031180401,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Suryapet,508376,1.0,68.0,0.0,4.5,0.22939560439560439,181.0,2.6231884057971016,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Lakhimpur,784161,1.0,349.0,1.5,4.5,0.31889488887666206,1430.0,4.085714285714285,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Prayagraj,211003,0.0,734.0,0.0,4.5,0.17662858531842487,1542.0,2.0979591836734692,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Golaghat,785705,2.0,1459.0,3.0,4.5,0.2681494534761301,1825.0,1.25,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup,781101,1.0,340.0,1.0,4.5,0.269591192894517,840.0,2.463343108504399,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Nadia,741313,1.0,306.0,1.0,4.5,0.22122288844474053,619.0,2.01628664495114,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karimganj,788734,5.0,377.0,1.5,4.5,0.2759726293114649,1283.0,3.394179894179894,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup,781141,1.0,503.0,1.0,4.5,0.31211280927298163,1361.0,2.7003968253968256,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Hojai,782439,5.0,571.0,3.0,4.5,0.3898670208603941,2298.0,4.0174825174825175,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup Metro,781012,2.0,309.0,1.0,4.416666666666666,0.23892667997277928,1099.0,3.5451612903225804,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Baksa,781360,4.0,660.0,2.0,4.416666666666666,0.3118426981182083,1925.0,2.9122541603630863,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Madhya Pradesh,Sheopur,476335,7.5,1314.0,4.0,4.4,0.3247676706539883,6267.0,4.765779467680608,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Chirang,783390,3.0,1187.0,2.0,4.4,0.3250209089347376,5833.0,4.90993265993266,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Tinsukia,786156,1.75,586.0,1.0,4.375,0.27174750120464014,937.0,1.596252129471891,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Cooch Behar,736172,5.0,425.0,3.0,4.363636363636363,0.34919654053317417,1373.0,3.223004694835681,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Cooch Behar,736165,4.0,583.0,2.5,4.333333333333334,0.41080524147133146,2040.0,3.493150684931507,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Hailakandi,788161,4.0,767.0,3.0,4.333333333333333,0.3631416803466932,2297.0,2.9908854166666665,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Mahabubabad,506135,1.0,94.0,1.0,4.333333333333333,0.2525,262.0,2.7578947368421054,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Goalpara,783125,2.0,758.0,2.0,4.325,0.34966518760834875,1921.0,2.530961791831357,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Murshidabad,742306,2.0,497.0,3.0,4.291666666666666,0.4906411949800697,2155.0,4.327309236947791,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Rajasthan,Karauli,322230,4.0,2523.0,9.0,4.285714285714286,0.46317226242796194,11976.0,4.744849445324881,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Shahjahanpur,242127,4.5,3475.0,8.0,4.285714285714286,0.2136769071715493,10533.0,3.0302071346375143,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Vikarabad,501501,2.0,298.0,1.5,4.257575757575758,0.3839249292374292,1349.0,4.511705685618729,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sibsagar,785640,2.0,580.0,2.0,4.25,0.24265625286844916,1204.0,2.072289156626506,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Saran,841213,2.0,369.0,3.0,4.25,0.11691029162474051,1562.0,4.221621621621622,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Golaghat,785602,1.0,548.0,1.0,4.25,0.2140078275367723,1054.0,1.9198542805100183,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dibrugarh,786001,2.0,660.0,2.0,4.25,0.27911115598888475,3165.0,4.788199697428139,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dibrugarh,786101,1.0,537.0,1.0,4.25,0.21722788309276964,1779.0,3.306691449814126,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Tinsukia,786174,1.25,454.0,1.0,4.25,0.19778885016078587,736.0,1.6175824175824176,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Darrang,784116,12.5,1066.0,6.5,4.245535714285714,0.3603102807271513,3278.0,3.0721649484536084,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Cooch Behar,736158,5.0,402.0,2.0,4.222222222222222,0.3764790217502006,1322.0,3.2803970223325063,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Shahjahanpur,242303,2.0,1163.0,2.0,4.222222222222222,0.21898105612337718,5415.0,4.652061855670103,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Jharkhand,Giridih,815312,6.0,2932.0,14.0,4.2214285714285715,0.3998449924994214,14408.0,4.91237640640982,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Gautam Buddha Nagar,201318,0.0,112.0,1.0,4.2,0.2198944526264114,503.0,4.451327433628318,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Tamil Nadu,Chengalpattu,600126,0.0,55.0,0.0,4.2,0.17216117216117216,231.0,4.125,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Golaghat,785612,4.0,1308.0,3.0,4.2,0.19991390436170278,1193.0,0.9113827349121467,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North 24 Parganas,743270,1.0,200.0,0.0,4.2,0.25370317304823065,817.0,4.064676616915423,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Meghalaya,West Garo Hills,794104,6.0,4376.0,12.0,4.174242424242424,0.3333529643267344,18743.0,4.282156728352753,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Rajasthan,Jalor,343032,10.0,1181.0,6.0,4.166666666666667,0.2789643620368862,4715.0,3.989001692047377,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Siddharthnagar,272206,5.25,1916.0,7.0,4.138461538461538,0.1963635996446958,7340.0,3.8288993218570684,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Madhya Pradesh,Agar Malwa,465441,5.75,770.0,6.0,4.125,0.4307045812094892,3316.0,4.300907911802853,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Madhya Pradesh,Bhind,477116,5.0,2074.0,7.5,4.125,0.4070000464522121,8143.0,3.9243373493975904,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karimganj,788737,6.0,614.0,2.0,4.1,0.3107457679468287,1679.0,2.730081300813008,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Jorhat,785001,1.0,477.0,1.0,4.1,0.25863293623887545,1543.0,3.228033472803347,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Gaya,824236,3.0,2540.0,6.0,4.090909090909091,0.14434945700199864,6194.0,2.4376229830775284,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Rajasthan,Churu,331403,5.25,3116.0,10.0,4.038461538461538,0.3300812472699412,14065.0,4.5123516201475775,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784180,2.0,159.0,1.0,4.0,0.24616311649278683,707.0,4.41875,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Mulugu,506172,4.0,216.0,2.0,4.0,0.3590078066141896,740.0,3.410138248847926,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Cachar,788098,1.0,456.0,1.0,4.0,0.24731448674726395,1382.0,3.024070021881838,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Cachar,788009,2.0,736.0,1.5,4.0,0.2949535879472212,2224.0,3.01763907734057,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karimganj,788735,3.0,210.0,1.0,4.0,0.2963203290843042,714.0,3.3838862559241707,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Goalpara,783132,2.0,1045.0,3.0,4.0,0.43441180967635135,2149.0,2.054493307839388,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dibrugarh,786613,1.0,425.0,1.0,4.0,0.23600107354515495,1038.0,2.436619718309859,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Murshidabad,742181,2.0,426.0,2.5,4.0,0.4930083639153025,1874.0,4.388758782201405,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Jorhat,785112,1.0,292.0,1.0,4.0,0.24640581441656711,1198.0,4.088737201365188,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Jayashankar Bhupalpally,506345,1.0,69.0,0.0,4.0,0.2263257575757576,185.0,2.642857142857143,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Gautam Buddha Nagar,201308,1.0,183.0,1.0,4.0,0.25892857142857145,776.0,4.217391304347826,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Etah,207244,0.0,603.0,0.0,4.0,0.1318106312292359,2206.0,3.652317880794702,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Rajasthan,Sirohi,307024,2.0,1105.0,3.0,4.0,0.20791522917726615,2838.0,2.566003616636528,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,South 24 Parganas,743351,4.0,359.0,2.0,4.0,0.36738052813704725,1632.0,4.533333333333333,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Cachar,788116,1.0,429.0,1.0,4.0,0.29176543469621524,1851.0,4.304651162790698,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,South Twenty Four Parganas,743351,0.0,145.0,1.0,4.0,0.28401915113871634,607.0,4.157534246575342,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Suryapet,508223,2.0,122.0,1.0,4.0,0.3033879501621437,492.0,4.0,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,491881,0.0,68.0,0.0,4.0,0.12203098106712564,331.0,4.797101449275362,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Madhya Pradesh,Maihar,485775,0.0,79.0,0.0,4.0,0.24862836438923394,354.0,4.425,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North 24 Parganas,743701,0.25,117.0,0.0,4.0,0.23987232574189093,554.0,4.694915254237288,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Goalpara,783120,1.0,594.0,2.0,4.0,0.37443882969442555,1979.0,3.3260504201680674,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dibrugarh,786010,1.0,588.0,1.0,4.0,0.2468649453024453,1539.0,2.6129032258064515,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North 24 Parganas,743287,1.0,324.0,1.0,4.0,0.24010238678879495,1356.0,4.172307692307692,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,North Twenty Four Parganas,743221,0.0,101.0,0.0,4.0,0.26102484472049686,408.0,4.0,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Murshidabad,731221,0.0,268.0,1.0,4.0,0.34463343071590496,1011.0,3.758364312267658,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup Metro,781025,2.0,332.0,1.0,4.0,0.18424249773995102,1245.0,3.7387387387387387,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karimganj,788723,7.0,813.0,5.0,4.0,0.4538368350251168,1883.0,2.3132678132678133,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup,781366,3.0,446.0,2.0,4.0,0.40409092908422484,1905.0,4.261744966442953,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup Metro,781020,2.0,278.0,1.0,4.0,0.17049655774624486,1025.0,3.673835125448029,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Darjiling,734014,0.0,58.0,0.0,4.0,0.1296511627906977,172.0,2.9152542372881354,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Udalguri,784114,1.0,407.0,1.0,4.0,0.2866184234685341,1396.0,3.4215686274509802,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784027,2.5,780.0,3.0,4.0,0.3555150345297782,1581.0,2.0243277848911654,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784168,0.0,93.0,0.0,4.0,0.18000512032770097,445.0,4.73404255319149,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784105,1.0,178.0,1.0,4.0,0.2371341765873016,579.0,3.2346368715083798,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784117,3.0,292.0,2.0,4.0,0.36644099947671377,1311.0,4.474402730375426,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Nawada,805129,1.0,427.0,0.0,4.0,0.06218395773294908,1678.0,3.9205607476635516,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Tinsukia,786147,1.0,101.0,0.0,4.0,0.13931735484891633,361.0,3.5392156862745097,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Karnataka,Bengaluru,560067,4.0,819.0,3.0,4.0,0.27418573458715517,2340.0,2.8536585365853657,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Maharajganj,273157,7.0,1359.0,6.0,4.0,0.20513365609674236,5723.0,4.208088235294118,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Kanpur Dehat,209204,3.0,742.0,2.0,4.0,0.22944394010086386,2680.0,3.60699865410498,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Gorakhpur,273008,2.0,1012.0,2.0,4.0,0.22995753998705407,3479.0,3.4343534057255676,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Gujarat,Morbi,363641,4.0,3228.0,4.5,4.0,0.46307678885269193,9008.0,2.7897181790027874,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Karnataka,Bengaluru,560035,5.0,775.0,2.5,4.0,0.21406047825305333,2318.0,2.9871134020618557,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Karnataka,Bengaluru,560066,6.0,862.0,3.0,4.0,0.2511833901909145,2945.0,3.4125144843568944,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Tinsukia,786160,1.0,209.0,1.0,4.0,0.23733578150244813,647.0,3.080952380952381,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Saran,841216,2.5,559.0,4.0,4.0,0.13359416315665898,2213.0,3.9517857142857142,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Gujarat,Dohad,389151,0.0,2674.0,4.0,4.0,0.396596118131639,5490.0,2.052336448598131,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Tinsukia,786154,1.0,286.0,1.0,4.0,0.20795739348370926,1025.0,3.5714285714285716,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Marigaon,782412,1.0,321.0,1.0,4.0,0.2745998720547785,875.0,2.717391304347826,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Cooch Behar,736175,1.0,101.0,0.0,4.0,0.20972644376899696,330.0,3.235294117647059,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Sonitpur,784103,1.0,291.0,0.5,4.0,0.17101147524069576,826.0,2.828767123287671,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Koch Bihar,736171,0.0,64.0,0.0,4.0,0.1963855421686747,83.0,1.2769230769230768,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Kolkata,700004,1.0,353.0,1.0,4.0,0.10975985418090681,872.0,2.463276836158192,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Maldah,732204,0.0,54.0,0.0,4.0,0.19185185185185183,247.0,4.490909090909091,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Kalimpong,734301,1.0,375.0,1.0,4.0,0.14799519896788385,474.0,1.2606382978723405,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Jorhat,785631,2.0,281.0,1.0,4.0,0.35413501982650925,937.0,3.3226950354609928,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Kamrup,781103,1.0,348.0,1.0,4.0,0.2566029614325069,1312.0,3.7593123209169055,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Murshidabad,742232,1.0,125.0,1.0,4.0,0.33045392953929537,217.0,1.7222222222222223,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Rajasthan,Sirohi,307022,4.75,1859.0,5.0,3.9375,0.32723947154366606,7209.0,3.8758064516129034,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karimganj,788720,12.0,1602.0,6.0,3.928571428571429,0.45250450126622804,4173.0,2.603243917654398,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Bihar,Nawada,805107,3.0,656.0,4.0,3.928571428571429,0.0736478385158825,3149.0,4.792998477929984,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Madhya Pradesh,Morena,476221,8.0,3777.0,14.0,3.928571428571429,0.40453612186487325,17329.0,4.586818422445739,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Cooch Behar,736146,2.75,411.0,3.0,3.9090909090909087,0.3436411124320886,1845.0,4.478155339805825,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Vikarabad,509336,3.25,243.0,2.0,3.9022556390977448,0.35909365393061043,639.0,2.6188524590163933,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Azamgarh,276001,7.0,2253.0,9.5,3.875,0.2497106052571624,10549.0,4.680124223602484,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+West Bengal,Malda,732204,3.0,251.0,2.0,3.875,0.41787481598087656,1078.0,4.277777777777778,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Gujarat,Banaskantha,385110,2.0,1042.0,2.0,3.833333333333333,0.24472967504451631,4470.0,4.285714285714286,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Darrang,784514,5.0,572.0,3.0,3.8,0.36215133481785644,1700.0,2.966841186736475,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Cachar,788001,1.0,394.0,1.0,3.75,0.25298280493947767,1728.0,4.374683544303798,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Jayashankar Bhupalpally,506348,2.0,104.0,1.0,3.75,0.2884697699304441,446.0,4.247619047619048,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Dibrugarh,786611,1.0,351.0,1.0,3.75,0.2071593261810653,576.0,1.6363636363636365,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karbi Anglong,782460,3.0,877.0,2.0,3.75,0.2555127512893438,2755.0,3.1378132118451023,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karimganj,788722,8.0,843.0,5.0,3.75,0.41050572038700217,2393.0,2.835308056872038,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Gujarat,Morbi,363642,2.0,759.0,1.0,3.6666666666666665,0.30302950817324825,3167.0,4.167105263157895,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Moradabad,244411,1.0,247.0,1.0,3.6666666666666665,0.28428136424936995,829.0,3.342741935483871,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Gujarat,Banaskantha,385120,6.0,1340.0,3.0,3.6,0.33397279699557875,6539.0,4.87621178225205,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Telangana,Vikarabad,501121,1.0,99.0,0.5,3.583333333333333,0.22583586626139818,492.0,4.92,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Madhya Pradesh,Bhind,477001,8.0,3103.0,10.0,3.583333333333333,0.48114845796881167,15043.0,4.846327319587629,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,491885,0.0,77.0,0.0,3.583333333333333,0.22238372093023256,242.0,3.1025641025641026,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Karimganj,788725,3.0,424.0,1.0,3.583333333333333,0.288637354429608,1346.0,3.1670588235294117,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Maharashtra,Chhatrapati Sambhajinagar,431007,0.0,80.0,0.0,3.583333333333333,0.057636469221835074,117.0,1.4444444444444444,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Uttar Pradesh,Ayodhya,224001,0.0,752.0,1.0,3.55,0.267290705307667,1406.0,1.8671978751660026,Deploy Mobile Aadhaar Vans + Assisted Digital Camps
+Assam,Baksa,781368,4.0,386.0,2.0,3.5416666666666665,0.3664796723307362,1056.0,2.7286821705426356,Deploy Mobile Aadhaar Vans + Assisted Digital Camps

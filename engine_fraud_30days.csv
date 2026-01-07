@@ -1,0 +1,139 @@
+state,district,pincode,audit_status,risk_reason,severity_score
+100000,100000,100000,HIGH RISK - Action Required,Abnormally Low Bio Updates,-0.07187796677069569
+Assam,Darrang,784115,HIGH RISK - Action Required,Pattern Anomaly,-0.031228406107185247
+Assam,Karimganj,788712,HIGH RISK - Action Required,Pattern Anomaly,-0.007296538544096509
+Assam,Sonitpur,784101,HIGH RISK - Action Required,Pattern Anomaly,-0.024484160172273728
+Assam,Sonitpur,784103,HIGH RISK - Action Required,Pattern Anomaly,-0.013882019974805093
+Assam,Sonitpur,784505,HIGH RISK - Action Required,Pattern Anomaly,-0.016633169812007575
+Bihar,Araria,854318,HIGH RISK - Action Required,Pattern Anomaly,-0.028185877746490506
+Bihar,Araria,854329,HIGH RISK - Action Required,Pattern Anomaly,-0.03134903127688682
+Bihar,Araria,854333,HIGH RISK - Action Required,Pattern Anomaly,-0.029652455049991255
+Bihar,East Champaran,845401,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.08558389312153125
+Bihar,Gaya,824233,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.01935002783687334
+Bihar,Katihar,854317,HIGH RISK - Action Required,Pattern Anomaly,-0.09416448670441746
+Bihar,Khagaria,848203,HIGH RISK - Action Required,Pattern Anomaly,-0.09162713934534139
+Bihar,Khagaria,851204,HIGH RISK - Action Required,Pattern Anomaly,-0.08441895000923993
+Bihar,Kishanganj,855107,HIGH RISK - Action Required,Pattern Anomaly,-0.04498073104441613
+Bihar,Lakhisarai,811311,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.03076859213005456
+Bihar,Madhepura,852112,HIGH RISK - Action Required,Pattern Anomaly,-0.02372183378393622
+Bihar,Madhepura,852210,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.1032155564514412
+Bihar,Madhubani,847408,HIGH RISK - Action Required,Pattern Anomaly,-0.048809440285497274
+Bihar,Muzaffarpur,843128,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.01844790378647343
+Bihar,Nalanda,803110,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.01610410088082892
+Bihar,Nawada,805130,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.04924156577350691
+Bihar,Purnia,854204,HIGH RISK - Action Required,Pattern Anomaly,-0.019673236796760474
+Bihar,Purnia,854304,HIGH RISK - Action Required,Pattern Anomaly,-0.05356438189542967
+Bihar,Samastipur,848101,HIGH RISK - Action Required,Pattern Anomaly,-0.05371213778018169
+Bihar,Samastipur,848114,HIGH RISK - Action Required,Pattern Anomaly,-0.08899809511721046
+Bihar,Sheikhpura,811105,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.04145769961449364
+Bihar,Sitamarhi,843327,HIGH RISK - Action Required,Pattern Anomaly,-0.00217213935687377
+Bihar,Supaul,852131,HIGH RISK - Action Required,Pattern Anomaly,-0.03823347280657252
+Bihar,West Champaran,845101,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.06459506833768303
+Bihar,West Champaran,845105,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.05134438114072126
+Bihar,West Champaran,845438,HIGH RISK - Action Required,Pattern Anomaly,-0.10991727162209419
+Bihar,West Champaran,845455,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.07994152954133882
+Chhattisgarh,Balrampur,497225,HIGH RISK - Action Required,Pattern Anomaly,-0.013749446818223765
+Chhattisgarh,Bastar,494442,HIGH RISK - Action Required,Pattern Anomaly,-0.11729717028241993
+Chhattisgarh,Gariyaband,493888,HIGH RISK - Action Required,Pattern Anomaly,-0.02035961782749951
+Chhattisgarh,Janjgir-champa,495668,HIGH RISK - Action Required,Pattern Anomaly,-0.0214911651402665
+Chhattisgarh,Kondagaon,494226,HIGH RISK - Action Required,Pattern Anomaly,-0.12067942171504609
+Chhattisgarh,Mahasamund,493445,HIGH RISK - Action Required,Pattern Anomaly,-0.008006409358374711
+Chhattisgarh,Mungeli,495115,HIGH RISK - Action Required,Pattern Anomaly,-0.036078237679534886
+Chhattisgarh,Raigarh,496116,HIGH RISK - Action Required,Pattern Anomaly,-0.03319665088937873
+Chhattisgarh,Surguja,497001,HIGH RISK - Action Required,Pattern Anomaly,-0.021055439644376284
+Delhi,North East Delhi,110053,HIGH RISK - Action Required,Pattern Anomaly,-0.03444592520854328
+Delhi,North East Delhi,110094,HIGH RISK - Action Required,Pattern Anomaly,-0.09420750229454966
+Delhi,South Delhi,110025,HIGH RISK - Action Required,Pattern Anomaly,-0.03276678678745648
+Delhi,South West Delhi,110043,HIGH RISK - Action Required,Pattern Anomaly,-0.0523946151594088
+Gujarat,Banaskantha,385535,HIGH RISK - Action Required,Pattern Anomaly,-0.03025553336404352
+Haryana,Faridabad,121004,HIGH RISK - Action Required,Pattern Anomaly,-0.11438741106592731
+Haryana,Mewat,122107,HIGH RISK - Action Required,Pattern Anomaly,-0.036054538670048375
+Haryana,Palwal,121102,HIGH RISK - Action Required,Pattern Anomaly,-0.07093552095795064
+Haryana,Yamuna Nagar,135001,HIGH RISK - Action Required,Pattern Anomaly,-0.028829338709063124
+Jammu and Kashmir,Doda,182203,HIGH RISK - Action Required,Pattern Anomaly,-0.13903676480211502
+Jammu and Kashmir,Ramban,182144,HIGH RISK - Action Required,Pattern Anomaly,-0.0021848435758577978
+Jammu and Kashmir,Reasi,182315,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.03478524587450649
+Jammu and Kashmir,Shupiyan,192303,HIGH RISK - Action Required,Pattern Anomaly,-0.012063560111303495
+Jharkhand,Chatra,825408,HIGH RISK - Action Required,Pattern Anomaly,-0.07496157291442396
+Jharkhand,East Singhbhum,832301,HIGH RISK - Action Required,Pattern Anomaly,-0.05155660445348398
+Jharkhand,Garhwa,822114,HIGH RISK - Action Required,Pattern Anomaly,-0.045678863239041134
+Jharkhand,Lohardaga,835302,HIGH RISK - Action Required,Pattern Anomaly,-0.08228466119743105
+Jharkhand,West Singhbhum,833214,HIGH RISK - Action Required,Pattern Anomaly,-0.03822129518582862
+Madhya Pradesh,Alirajpur,457990,HIGH RISK - Action Required,Pattern Anomaly,-0.0523248741183473
+Madhya Pradesh,Ashok Nagar,473331,HIGH RISK - Action Required,Pattern Anomaly,-0.020921765761313993
+Madhya Pradesh,Gwalior,475110,HIGH RISK - Action Required,Pattern Anomaly,-0.09379269181339411
+Madhya Pradesh,Indore,452016,HIGH RISK - Action Required,Pattern Anomaly,-0.03990427518784834
+Madhya Pradesh,Jhabua,457661,HIGH RISK - Action Required,Pattern Anomaly,-0.09469991225808683
+Madhya Pradesh,Katni,483501,HIGH RISK - Action Required,Pattern Anomaly,-0.03148003563114832
+Madhya Pradesh,Khargone,451001,HIGH RISK - Action Required,Pattern Anomaly,-0.02808530856282998
+Madhya Pradesh,Khargone,451332,HIGH RISK - Action Required,Pattern Anomaly,-0.008735271331853589
+Madhya Pradesh,Ratlam,457001,HIGH RISK - Action Required,Pattern Anomaly,-0.10831440831078487
+Madhya Pradesh,Rewa,486331,HIGH RISK - Action Required,Pattern Anomaly,-0.018690350472564177
+Madhya Pradesh,Satna,485771,HIGH RISK - Action Required,Pattern Anomaly,-0.02730363890631904
+Madhya Pradesh,Satna,485772,HIGH RISK - Action Required,Pattern Anomaly,-0.030395041639029063
+Madhya Pradesh,Shahdol,484001,HIGH RISK - Action Required,Pattern Anomaly,-0.05416533272007451
+Madhya Pradesh,Singrauli,486886,HIGH RISK - Action Required,Pattern Anomaly,-0.127888759738371
+Madhya Pradesh,Umaria,484661,HIGH RISK - Action Required,Pattern Anomaly,-0.10106294372596025
+Maharashtra,Ahmadnagar,422604,HIGH RISK - Action Required,Pattern Anomaly,-0.03591334342757935
+Maharashtra,Ahmadnagar,422605,HIGH RISK - Action Required,Pattern Anomaly,-0.008383814600804618
+Maharashtra,Aurangabad,431001,HIGH RISK - Action Required,Pattern Anomaly,-0.1203170578266427
+Maharashtra,Beed,431122,HIGH RISK - Action Required,Pattern Anomaly,-0.07839560476504992
+Maharashtra,Beed,431125,HIGH RISK - Action Required,Pattern Anomaly,-0.0307529662870486
+Maharashtra,Gondiya,441601,HIGH RISK - Action Required,Pattern Anomaly,-0.037339912334578895
+Maharashtra,Jalna,431213,HIGH RISK - Action Required,Pattern Anomaly,-0.05222979283804419
+Maharashtra,Thane,400612,HIGH RISK - Action Required,Pattern Anomaly,-0.02291562793462687
+Maharashtra,Thane,401107,HIGH RISK - Action Required,Pattern Anomaly,-0.08761349318260647
+Maharashtra,Thane,421302,HIGH RISK - Action Required,Pattern Anomaly,-0.044706923247300634
+Meghalaya,East Khasi Hills,793010,HIGH RISK - Action Required,Pattern Anomaly,-0.024381562759167696
+Meghalaya,East Khasi Hills,793022,HIGH RISK - Action Required,Pattern Anomaly,-0.010371552880915957
+Meghalaya,Eastern West Khasi Hills,793120,HIGH RISK - Action Required,Abnormally Low Bio Updates,-0.04495693458794192
+Meghalaya,North Garo Hills,783134,HIGH RISK - Action Required,Pattern Anomaly,-0.03818671003165386
+Meghalaya,West Khasi Hills,793119,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.031831029947374856
+Odisha,Kendujhar,758040,HIGH RISK - Action Required,Pattern Anomaly,-0.016630226212698718
+Punjab,Patiala,147001,HIGH RISK - Action Required,Pattern Anomaly,-0.060125189691798364
+Rajasthan,Barmer,344032,HIGH RISK - Action Required,Pattern Anomaly,-0.014407215569263276
+Rajasthan,Deeg,321201,HIGH RISK - Action Required,Pattern Anomaly,-0.024508680045790654
+Rajasthan,Jalor,343029,HIGH RISK - Action Required,Pattern Anomaly,-0.051915373526704056
+Rajasthan,Jalor,343032,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.05044392536463671
+Rajasthan,Jalor,343041,HIGH RISK - Action Required,Pattern Anomaly,-0.1005618524806432
+Rajasthan,Udaipur,313001,HIGH RISK - Action Required,Pattern Anomaly,-0.03431784378413527
+Uttar Pradesh,Agra,282001,HIGH RISK - Action Required,Pattern Anomaly,-0.0045371892346763865
+Uttar Pradesh,Aligarh,202001,HIGH RISK - Action Required,Pattern Anomaly,-0.11605008984576137
+Uttar Pradesh,Amroha,244221,HIGH RISK - Action Required,Pattern Anomaly,-0.07507178077208798
+Uttar Pradesh,Bahraich,271865,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.09724049386234757
+Uttar Pradesh,Balrampur,271201,SUPPRESSED - Verified Migration Context,Pattern Anomaly,-0.0336747114223207
+Uttar Pradesh,Bulandshahr,203001,HIGH RISK - Action Required,Pattern Anomaly,-0.09211331647069299
+Uttar Pradesh,Bulandshahr,203131,HIGH RISK - Action Required,Pattern Anomaly,-0.09490754903761267
+Uttar Pradesh,Chitrakoot,210209,HIGH RISK - Action Required,Pattern Anomaly,-0.09469991225808683
+Uttar Pradesh,Etah,207001,HIGH RISK - Action Required,Pattern Anomaly,-0.08896654578949414
+Uttar Pradesh,Ghaziabad,201102,HIGH RISK - Action Required,Pattern Anomaly,-0.0898326840120679
+Uttar Pradesh,Hapur,245101,HIGH RISK - Action Required,Pattern Anomaly,-0.09964739168196823
+Uttar Pradesh,Hathras,204101,HIGH RISK - Action Required,Pattern Anomaly,-0.060126068566867086
+Uttar Pradesh,Kanpur Nagar,208001,HIGH RISK - Action Required,Pattern Anomaly,-0.03031504499539306
+Uttar Pradesh,Kushinagar,274304,HIGH RISK - Action Required,Pattern Anomaly,-0.05194137935594556
+Uttar Pradesh,Meerut,250002,HIGH RISK - Action Required,Pattern Anomaly,-0.021041552592182322
+Uttar Pradesh,Shamli,247775,HIGH RISK - Action Required,Pattern Anomaly,-0.05012767191433953
+Uttar Pradesh,Shamli,247776,HIGH RISK - Action Required,Pattern Anomaly,-1.6706918805731164e-05
+Uttar Pradesh,Sonbhadra,231216,HIGH RISK - Action Required,Pattern Anomaly,-0.022083544113406406
+Uttar Pradesh,Varanasi,221001,HIGH RISK - Action Required,Pattern Anomaly,-0.08804632874532003
+Uttarakhand,Haridwar,247656,HIGH RISK - Action Required,Pattern Anomaly,-0.002431106633386193
+Uttarakhand,Haridwar,247661,HIGH RISK - Action Required,Pattern Anomaly,-0.05596505598812862
+Uttarakhand,Haridwar,247667,HIGH RISK - Action Required,Pattern Anomaly,-0.07583836005675437
+Uttarakhand,Udham Singh Nagar,244713,HIGH RISK - Action Required,Pattern Anomaly,-0.0885470938224241
+Uttarakhand,Udham Singh Nagar,262401,HIGH RISK - Action Required,Pattern Anomaly,-0.04271770290669363
+West Bengal,Birbhum,731219,HIGH RISK - Action Required,Pattern Anomaly,-0.05577393530854724
+West Bengal,Howrah,711315,HIGH RISK - Action Required,Pattern Anomaly,-0.05402488723141752
+West Bengal,Malda,732123,HIGH RISK - Action Required,Pattern Anomaly,-0.002472206075622041
+West Bengal,Malda,732125,HIGH RISK - Action Required,Pattern Anomaly,-0.10331982347365176
+West Bengal,Malda,732139,HIGH RISK - Action Required,Pattern Anomaly,-0.007179878214634505
+West Bengal,Malda,732201,HIGH RISK - Action Required,Pattern Anomaly,-0.07466736951476927
+West Bengal,Murshidabad,742202,HIGH RISK - Action Required,Pattern Anomaly,-0.07128290048783448
+West Bengal,North 24 Parganas,743287,HIGH RISK - Action Required,Pattern Anomaly,-0.0765412431873278
+West Bengal,North 24 Parganas,743425,HIGH RISK - Action Required,Pattern Anomaly,-0.011335071029091592
+West Bengal,South 24 Parganas,743312,HIGH RISK - Action Required,Pattern Anomaly,-0.004994872247132465
+West Bengal,South 24 Parganas,743329,HIGH RISK - Action Required,Pattern Anomaly,-0.12523463071829366
+West Bengal,Uttar Dinajpur,733128,HIGH RISK - Action Required,Pattern Anomaly,-0.007781036647114492
+West Bengal,Uttar Dinajpur,733201,HIGH RISK - Action Required,Pattern Anomaly,-0.06236683855976022
+West Bengal,Uttar Dinajpur,733202,HIGH RISK - Action Required,Pattern Anomaly,-0.013488326127437444
+West Bengal,Uttar Dinajpur,733207,HIGH RISK - Action Required,Pattern Anomaly,-0.05621788630701663
+West Bengal,Uttar Dinajpur,733215,HIGH RISK - Action Required,Pattern Anomaly,-0.00874935295449053

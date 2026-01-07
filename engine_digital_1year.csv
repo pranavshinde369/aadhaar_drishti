@@ -1,0 +1,448 @@
+state,district,pincode,elderly_pressure,bio_sum,total_vol,bio_rate,action
+Assam,Baksa,781360,4.416666666666666,1925.0,660.0,2.9122541603630863,Deploy Digital Sahayak
+Assam,Baksa,781367,4.625,1678.0,661.0,2.5347432024169185,Deploy Digital Sahayak
+Assam,Baksa,781368,3.5416666666666665,1056.0,386.0,2.7286821705426356,Deploy Digital Sahayak
+Assam,Baksa,781372,4.666666666666667,1363.0,524.0,2.5961904761904764,Deploy Digital Sahayak
+Assam,Barpeta,781308,6.0,9897.0,2545.0,3.887274155538099,Deploy Digital Sahayak
+Assam,Barpeta,781314,5.0,8208.0,2015.0,4.071428571428571,Deploy Digital Sahayak
+Assam,Cachar,788001,3.75,1728.0,394.0,4.374683544303798,Deploy Digital Sahayak
+Assam,Cachar,788005,5.0,3189.0,875.0,3.6404109589041096,Deploy Digital Sahayak
+Assam,Cachar,788009,4.0,2224.0,736.0,3.01763907734057,Deploy Digital Sahayak
+Assam,Cachar,788030,4.928571428571429,2349.0,1320.0,1.7781983345950039,Deploy Digital Sahayak
+Assam,Cachar,788098,4.0,1382.0,456.0,3.024070021881838,Deploy Digital Sahayak
+Assam,Cachar,788101,4.75,2642.0,605.0,4.35973597359736,Deploy Digital Sahayak
+Assam,Cachar,788104,5.333333333333333,1125.0,380.0,2.952755905511811,Deploy Digital Sahayak
+Assam,Cachar,788107,5.0,1653.0,748.0,2.20694259012016,Deploy Digital Sahayak
+Assam,Cachar,788116,4.0,1851.0,429.0,4.304651162790698,Deploy Digital Sahayak
+Assam,Cachar,788815,5.0,3475.0,1482.0,2.3432231962238705,Deploy Digital Sahayak
+Assam,Cachar,788817,5.0,2699.0,978.0,2.7568947906026557,Deploy Digital Sahayak
+Assam,Chirang,783390,4.4,5833.0,1187.0,4.90993265993266,Deploy Digital Sahayak
+Assam,Darrang,784115,4.690476190476191,3443.0,1314.0,2.618250950570342,Deploy Digital Sahayak
+Assam,Darrang,784116,4.245535714285714,3278.0,1066.0,3.0721649484536084,Deploy Digital Sahayak
+Assam,Darrang,784125,4.607142857142858,4175.0,1077.0,3.87291280148423,Deploy Digital Sahayak
+Assam,Darrang,784145,5.5,4004.0,1053.0,3.7988614800759013,Deploy Digital Sahayak
+Assam,Darrang,784514,3.8,1700.0,572.0,2.966841186736475,Deploy Digital Sahayak
+Assam,Dhemaji,787057,4.5,3039.0,1482.0,2.0492245448415374,Deploy Digital Sahayak
+Assam,Dhemaji,787059,5.300000000000001,4226.0,1340.0,3.1513795674869503,Deploy Digital Sahayak
+Assam,Dhemaji,787060,5.142857142857143,3302.0,1547.0,2.1330749354005167,Deploy Digital Sahayak
+Assam,Dhemaji,787061,5.666666666666667,1725.0,489.0,3.520408163265306,Deploy Digital Sahayak
+Assam,Dhubri,783331,5.0,4064.0,1336.0,3.039640987284966,Deploy Digital Sahayak
+Assam,Dhubri,783334,5.267857142857142,6378.0,1640.0,3.886654478976234,Deploy Digital Sahayak
+Assam,Dhubri,783337,4.833333333333334,1784.0,784.0,2.272611464968153,Deploy Digital Sahayak
+Assam,Dhubri,783348,6.923076923076923,8503.0,2537.0,3.3502758077226162,Deploy Digital Sahayak
+Assam,Dhubri,783349,5.2,2410.0,893.0,2.6957494407158835,Deploy Digital Sahayak
+Assam,Dhubri,783371,5.416666666666666,2109.0,439.0,4.793181818181818,Deploy Digital Sahayak
+Assam,Dibrugarh,785675,5.416666666666666,1809.0,708.0,2.55148095909732,Deploy Digital Sahayak
+Assam,Dibrugarh,786001,4.25,3165.0,660.0,4.788199697428139,Deploy Digital Sahayak
+Assam,Dibrugarh,786010,4.0,1539.0,588.0,2.6129032258064515,Deploy Digital Sahayak
+Assam,Dibrugarh,786101,4.25,1779.0,537.0,3.306691449814126,Deploy Digital Sahayak
+Assam,Dibrugarh,786184,5.0,1939.0,542.0,3.570902394106814,Deploy Digital Sahayak
+Assam,Dibrugarh,786602,5.166666666666666,1396.0,559.0,2.492857142857143,Deploy Digital Sahayak
+Assam,Dibrugarh,786610,6.666666666666667,1525.0,536.0,2.839851024208566,Deploy Digital Sahayak
+Assam,Dibrugarh,786611,3.75,576.0,351.0,1.6363636363636365,Deploy Digital Sahayak
+Assam,Dibrugarh,786613,4.0,1038.0,425.0,2.436619718309859,Deploy Digital Sahayak
+Assam,Goalpara,783101,5.428571428571429,4552.0,1360.0,3.3445995591476856,Deploy Digital Sahayak
+Assam,Goalpara,783120,4.0,1979.0,594.0,3.3260504201680674,Deploy Digital Sahayak
+Assam,Goalpara,783125,4.325,1921.0,758.0,2.530961791831357,Deploy Digital Sahayak
+Assam,Goalpara,783126,5.142857142857143,1906.0,1036.0,1.8379942140790742,Deploy Digital Sahayak
+Assam,Goalpara,783129,5.857142857142857,7193.0,3318.0,2.1672190418800845,Deploy Digital Sahayak
+Assam,Goalpara,783132,4.0,2149.0,1045.0,2.054493307839388,Deploy Digital Sahayak
+Assam,Golaghat,785601,6.0,4815.0,1609.0,2.9906832298136647,Deploy Digital Sahayak
+Assam,Golaghat,785602,4.25,1054.0,548.0,1.9198542805100183,Deploy Digital Sahayak
+Assam,Golaghat,785612,4.2,1193.0,1308.0,0.9113827349121467,Deploy Digital Sahayak
+Assam,Golaghat,785614,5.5,2128.0,1143.0,1.8601398601398602,Deploy Digital Sahayak
+Assam,Golaghat,785621,4.75,1203.0,845.0,1.4219858156028369,Deploy Digital Sahayak
+Assam,Golaghat,785702,5.0,1121.0,1188.0,0.9428090832632464,Deploy Digital Sahayak
+Assam,Golaghat,785705,4.5,1825.0,1459.0,1.25,Deploy Digital Sahayak
+Assam,Hailakandi,788161,4.333333333333333,2297.0,767.0,2.9908854166666665,Deploy Digital Sahayak
+Assam,Hailakandi,788163,5.0,3440.0,1193.0,2.88107202680067,Deploy Digital Sahayak
+Assam,Hojai,782435,9.0,5637.0,1762.0,3.1973908111174136,Deploy Digital Sahayak
+Assam,Hojai,782439,4.5,2298.0,571.0,4.0174825174825175,Deploy Digital Sahayak
+Assam,Hojai,782446,6.4375,7679.0,2935.0,2.6154632152588557,Deploy Digital Sahayak
+Assam,Jorhat,785001,4.1,1543.0,477.0,3.228033472803347,Deploy Digital Sahayak
+Assam,Jorhat,785112,4.0,1198.0,292.0,4.088737201365188,Deploy Digital Sahayak
+Assam,Jorhat,785630,5.0,1583.0,578.0,2.7340241796200346,Deploy Digital Sahayak
+Assam,Jorhat,785631,4.0,937.0,281.0,3.3226950354609928,Deploy Digital Sahayak
+Assam,Jorhat,785634,5.0,1259.0,475.0,2.6449579831932772,Deploy Digital Sahayak
+Assam,Kamrup,781101,4.5,840.0,340.0,2.463343108504399,Deploy Digital Sahayak
+Assam,Kamrup,781102,6.944444444444445,3861.0,1329.0,2.9030075187969926,Deploy Digital Sahayak
+Assam,Kamrup,781103,4.0,1312.0,348.0,3.7593123209169055,Deploy Digital Sahayak
+Assam,Kamrup,781123,6.0,1752.0,742.0,2.358008075370121,Deploy Digital Sahayak
+Assam,Kamrup,781135,5.0,907.0,383.0,2.3619791666666665,Deploy Digital Sahayak
+Assam,Kamrup,781136,7.375,6112.0,2740.0,2.229843122947829,Deploy Digital Sahayak
+Assam,Kamrup,781137,5.428571428571429,2911.0,1348.0,2.1578947368421053,Deploy Digital Sahayak
+Assam,Kamrup,781141,4.5,1361.0,503.0,2.7003968253968256,Deploy Digital Sahayak
+Assam,Kamrup,781354,6.8,3630.0,1595.0,2.274436090225564,Deploy Digital Sahayak
+Assam,Kamrup,781366,4.0,1905.0,446.0,4.261744966442953,Deploy Digital Sahayak
+Assam,Kamrup Metro,781012,4.416666666666666,1099.0,309.0,3.5451612903225804,Deploy Digital Sahayak
+Assam,Kamrup Metro,781020,4.0,1025.0,278.0,3.673835125448029,Deploy Digital Sahayak
+Assam,Kamrup Metro,781025,4.0,1245.0,332.0,3.7387387387387387,Deploy Digital Sahayak
+Assam,Karbi Anglong,782441,4.666666666666667,5864.0,1214.0,4.826337448559671,Deploy Digital Sahayak
+Assam,Karbi Anglong,782448,4.666666666666667,2170.0,612.0,3.5399673735725936,Deploy Digital Sahayak
+Assam,Karbi Anglong,782460,3.75,2755.0,877.0,3.1378132118451023,Deploy Digital Sahayak
+Assam,Karbi Anglong,782480,5.916666666666666,6983.0,2023.0,3.450098814229249,Deploy Digital Sahayak
+Assam,Karimganj,788712,5.2,1962.0,1291.0,1.5185758513931888,Deploy Digital Sahayak
+Assam,Karimganj,788720,3.928571428571429,4173.0,1602.0,2.603243917654398,Deploy Digital Sahayak
+Assam,Karimganj,788722,3.75,2393.0,843.0,2.835308056872038,Deploy Digital Sahayak
+Assam,Karimganj,788723,4.0,1883.0,813.0,2.3132678132678133,Deploy Digital Sahayak
+Assam,Karimganj,788724,5.363636363636363,3164.0,2013.0,1.571002979145978,Deploy Digital Sahayak
+Assam,Karimganj,788725,3.583333333333333,1346.0,424.0,3.1670588235294117,Deploy Digital Sahayak
+Assam,Karimganj,788728,4.75,1032.0,683.0,1.5087719298245614,Deploy Digital Sahayak
+Assam,Karimganj,788734,4.5,1283.0,377.0,3.394179894179894,Deploy Digital Sahayak
+Assam,Karimganj,788735,4.0,714.0,210.0,3.3838862559241707,Deploy Digital Sahayak
+Assam,Karimganj,788737,4.1,1679.0,614.0,2.730081300813008,Deploy Digital Sahayak
+Assam,Karimganj,788806,4.9,2302.0,888.0,2.5894263217097864,Deploy Digital Sahayak
+Assam,Kokrajhar,783350,4.5,1837.0,448.0,4.091314031180401,Deploy Digital Sahayak
+Assam,Kokrajhar,783370,7.0,5412.0,1906.0,2.8379653906659676,Deploy Digital Sahayak
+Assam,Lakhimpur,784160,6.0,3460.0,1381.0,2.503617945007236,Deploy Digital Sahayak
+Assam,Lakhimpur,784161,4.5,1430.0,349.0,4.085714285714285,Deploy Digital Sahayak
+Assam,Lakhimpur,787031,6.0,4565.0,1069.0,4.266355140186916,Deploy Digital Sahayak
+Assam,Lakhimpur,787055,4.666666666666667,3428.0,1104.0,3.102262443438914,Deploy Digital Sahayak
+Assam,Marigaon,782104,5.5,2777.0,638.0,4.34585289514867,Deploy Digital Sahayak
+Assam,Marigaon,782105,5.535714285714286,3026.0,1704.0,1.7747800586510263,Deploy Digital Sahayak
+Assam,Marigaon,782126,5.4,5149.0,1213.0,4.241350906095552,Deploy Digital Sahayak
+Assam,Marigaon,782127,6.0,6214.0,2112.0,2.9408424041646946,Deploy Digital Sahayak
+Assam,Marigaon,782410,5.535714285714286,1795.0,1602.0,1.1197754210854647,Deploy Digital Sahayak
+Assam,Marigaon,782411,5.1,3758.0,1231.0,3.050324675324675,Deploy Digital Sahayak
+Assam,Marigaon,782412,4.0,875.0,321.0,2.717391304347826,Deploy Digital Sahayak
+Assam,Sibsagar,785640,4.25,1204.0,580.0,2.072289156626506,Deploy Digital Sahayak
+Assam,Sibsagar,785685,4.733333333333333,1608.0,520.0,3.0863723608445297,Deploy Digital Sahayak
+Assam,Sonitpur,784027,4.0,1581.0,780.0,2.0243277848911654,Deploy Digital Sahayak
+Assam,Sonitpur,784101,5.75,980.0,371.0,2.6344086021505375,Deploy Digital Sahayak
+Assam,Sonitpur,784103,4.0,826.0,291.0,2.828767123287671,Deploy Digital Sahayak
+Assam,Sonitpur,784105,4.0,579.0,178.0,3.2346368715083798,Deploy Digital Sahayak
+Assam,Sonitpur,784110,5.625,2694.0,1498.0,1.7971981320880588,Deploy Digital Sahayak
+Assam,Sonitpur,784111,5.0,915.0,274.0,3.327272727272727,Deploy Digital Sahayak
+Assam,Sonitpur,784112,5.0,789.0,305.0,2.5784313725490198,Deploy Digital Sahayak
+Assam,Sonitpur,784117,4.0,1311.0,292.0,4.474402730375426,Deploy Digital Sahayak
+Assam,Sonitpur,784149,5.464285714285714,1678.0,343.0,4.877906976744186,Deploy Digital Sahayak
+Assam,Sonitpur,784168,4.0,445.0,93.0,4.73404255319149,Deploy Digital Sahayak
+Assam,Sonitpur,784180,4.0,707.0,159.0,4.41875,Deploy Digital Sahayak
+Assam,Sonitpur,784182,5.333333333333333,2381.0,521.0,4.561302681992337,Deploy Digital Sahayak
+Assam,Sonitpur,784505,6.0,1457.0,479.0,3.035416666666667,Deploy Digital Sahayak
+Assam,South Salmara Mankachar,783131,8.708333333333332,1324.0,520.0,2.5412667946257197,Deploy Digital Sahayak
+Assam,South Salmara Mankachar,783135,9.285714285714286,2031.0,702.0,2.8890469416785205,Deploy Digital Sahayak
+Assam,Tinsukia,786125,5.666666666666667,1723.0,669.0,2.571641791044776,Deploy Digital Sahayak
+Assam,Tinsukia,786147,4.0,361.0,101.0,3.5392156862745097,Deploy Digital Sahayak
+Assam,Tinsukia,786151,6.666666666666667,1354.0,871.0,1.5527522935779816,Deploy Digital Sahayak
+Assam,Tinsukia,786152,5.5,1379.0,452.0,3.0441501103752757,Deploy Digital Sahayak
+Assam,Tinsukia,786154,4.0,1025.0,286.0,3.5714285714285716,Deploy Digital Sahayak
+Assam,Tinsukia,786156,4.375,937.0,586.0,1.596252129471891,Deploy Digital Sahayak
+Assam,Tinsukia,786160,4.0,647.0,209.0,3.080952380952381,Deploy Digital Sahayak
+Assam,Tinsukia,786170,7.0,1453.0,614.0,2.3626016260162603,Deploy Digital Sahayak
+Assam,Tinsukia,786171,7.0,1115.0,831.0,1.3401442307692308,Deploy Digital Sahayak
+Assam,Tinsukia,786174,4.25,736.0,454.0,1.6175824175824176,Deploy Digital Sahayak
+Assam,Tinsukia,786181,6.166666666666666,486.0,630.0,0.7702060221870047,Deploy Digital Sahayak
+Assam,Tinsukia,786182,5.0,816.0,767.0,1.0625,Deploy Digital Sahayak
+Assam,Udalguri,784114,4.0,1396.0,407.0,3.4215686274509802,Deploy Digital Sahayak
+Assam,Udalguri,784507,5.166666666666666,1687.0,568.0,2.9648506151142353,Deploy Digital Sahayak
+Assam,Udalguri,784509,6.0,3623.0,852.0,4.24736225087925,Deploy Digital Sahayak
+Bihar,Bhagalpur,812005,6.541666666666666,9808.0,2839.0,3.453521126760563,Deploy Digital Sahayak
+Bihar,Bhagalpur,813213,6.0,8021.0,1719.0,4.663372093023256,Deploy Digital Sahayak
+Bihar,Bhagalpur,853204,7.3125,13370.0,3038.0,4.399473511023363,Deploy Digital Sahayak
+Bihar,Bhojpur,802160,6.0,1390.0,336.0,4.1246290801186944,Deploy Digital Sahayak
+Bihar,Bhojpur,802161,5.0,2964.0,614.0,4.819512195121951,Deploy Digital Sahayak
+Bihar,Bhojpur,802201,5.9,3726.0,762.0,4.883355176933159,Deploy Digital Sahayak
+Bihar,Bhojpur,802301,6.872781065088757,7259.0,1751.0,4.143264840182648,Deploy Digital Sahayak
+Bihar,East Champaran,845301,8.458333333333334,8491.0,1775.0,4.780968468468468,Deploy Digital Sahayak
+Bihar,East Champaran,845302,6.690476190476191,8906.0,2346.0,3.7946314443971025,Deploy Digital Sahayak
+Bihar,East Champaran,845303,8.428104575163399,7838.0,2176.0,3.600367478180983,Deploy Digital Sahayak
+Bihar,East Champaran,845304,7.607142857142858,6234.0,1319.0,4.722727272727273,Deploy Digital Sahayak
+Bihar,East Champaran,845305,9.190909090909091,7928.0,1724.0,4.595942028985507,Deploy Digital Sahayak
+Bihar,East Champaran,845315,5.0,3017.0,624.0,4.8272,Deploy Digital Sahayak
+Bihar,East Champaran,845401,7.697368421052632,16293.0,3316.0,4.9119686463672,Deploy Digital Sahayak
+Bihar,East Champaran,845415,7.5,6868.0,1468.0,4.675289312457454,Deploy Digital Sahayak
+Bihar,East Champaran,845433,7.966666666666667,8730.0,2181.0,4.000916590284143,Deploy Digital Sahayak
+Bihar,Gaya,823001,6.280303030303031,9713.0,3219.0,3.0164596273291924,Deploy Digital Sahayak
+Bihar,Gaya,824231,5.625,7128.0,2022.0,3.523479980227385,Deploy Digital Sahayak
+Bihar,Gaya,824236,4.090909090909091,6194.0,2540.0,2.4376229830775284,Deploy Digital Sahayak
+Bihar,Gopalganj,841405,10.0,9879.0,2204.0,4.480272108843537,Deploy Digital Sahayak
+Bihar,Gopalganj,841409,6.142857142857142,5049.0,1325.0,3.8076923076923075,Deploy Digital Sahayak
+Bihar,Gopalganj,841438,8.428571428571429,9660.0,2623.0,3.6814024390243905,Deploy Digital Sahayak
+Bihar,Jamui,811303,6.770833333333334,7729.0,1894.0,4.078627968337731,Deploy Digital Sahayak
+Bihar,Jehanabad,804418,5.75,2631.0,758.0,3.466403162055336,Deploy Digital Sahayak
+Bihar,Madhubani,847108,6.764705882352941,9179.0,3396.0,2.702090079481896,Deploy Digital Sahayak
+Bihar,Madhubani,847232,6.666666666666667,6415.0,1457.0,4.399862825788752,Deploy Digital Sahayak
+Bihar,Madhubani,847421,5.6,5459.0,1964.0,2.778117048346056,Deploy Digital Sahayak
+Bihar,Munger,811213,7.875,9556.0,2412.0,3.9602154993783674,Deploy Digital Sahayak
+Bihar,Muzaffarpur,842001,6.775,7586.0,1555.0,4.875321336760925,Deploy Digital Sahayak
+Bihar,Muzaffarpur,842002,8.285714285714286,9051.0,2075.0,4.359826589595376,Deploy Digital Sahayak
+Bihar,Muzaffarpur,843108,7.333333333333333,3302.0,694.0,4.751079136690647,Deploy Digital Sahayak
+Bihar,Muzaffarpur,843109,8.615384615384615,8190.0,2225.0,3.6792452830188678,Deploy Digital Sahayak
+Bihar,Muzaffarpur,843111,9.0,9136.0,3301.0,2.7668079951544517,Deploy Digital Sahayak
+Bihar,Muzaffarpur,843119,9.833333333333334,10164.0,2077.0,4.891241578440808,Deploy Digital Sahayak
+Bihar,Nalanda,803101,5.857142857142857,15320.0,3736.0,4.099545089644099,Deploy Digital Sahayak
+Bihar,Nawada,805103,6.2,6280.0,1477.0,4.2489851150202975,Deploy Digital Sahayak
+Bihar,Nawada,805104,6.25,5850.0,1479.0,3.9527027027027026,Deploy Digital Sahayak
+Bihar,Nawada,805107,3.928571428571429,3149.0,656.0,4.792998477929984,Deploy Digital Sahayak
+Bihar,Nawada,805109,6.291666666666666,4249.0,1221.0,3.4770867430441896,Deploy Digital Sahayak
+Bihar,Nawada,805110,6.0,6870.0,1436.0,4.780793319415449,Deploy Digital Sahayak
+Bihar,Nawada,805121,6.071428571428571,3346.0,928.0,3.6017222820236814,Deploy Digital Sahayak
+Bihar,Nawada,805123,4.8,2964.0,811.0,3.6502463054187193,Deploy Digital Sahayak
+Bihar,Nawada,805129,4.0,1678.0,427.0,3.9205607476635516,Deploy Digital Sahayak
+Bihar,Patna,800001,7.625,7083.0,2131.0,3.322232645403377,Deploy Digital Sahayak
+Bihar,Patna,801110,7.556818181818182,7355.0,1774.0,4.143661971830986,Deploy Digital Sahayak
+Bihar,Saharsa,852127,6.0,13963.0,2853.0,4.892431674842326,Deploy Digital Sahayak
+Bihar,Saran,841211,5.857142857142857,2891.0,1058.0,2.7299338999055713,Deploy Digital Sahayak
+Bihar,Saran,841213,4.25,1562.0,369.0,4.221621621621622,Deploy Digital Sahayak
+Bihar,Saran,841216,4.0,2213.0,559.0,3.9517857142857142,Deploy Digital Sahayak
+Bihar,Saran,841301,7.0,10661.0,2704.0,3.9412199630314233,Deploy Digital Sahayak
+Bihar,Saran,841403,7.0,6639.0,2299.0,2.8865217391304347,Deploy Digital Sahayak
+Bihar,Saran,841424,5.732142857142858,6759.0,1377.0,4.904934687953556,Deploy Digital Sahayak
+Bihar,Sitamarhi,843302,8.869747899159664,22802.0,7087.0,3.2169864559819414,Deploy Digital Sahayak
+Bihar,Sitamarhi,843313,7.0,5438.0,1797.0,3.024471635150167,Deploy Digital Sahayak
+Bihar,Sitamarhi,843315,9.0,5556.0,1618.0,3.431747992588017,Deploy Digital Sahayak
+Bihar,Sitamarhi,843317,7.5,9267.0,3769.0,2.4580901856763924,Deploy Digital Sahayak
+Bihar,Sitamarhi,843324,7.8,17155.0,6989.0,2.4542203147353363,Deploy Digital Sahayak
+Bihar,Sitamarhi,843327,7.331730769230769,8745.0,2272.0,3.847338319401672,Deploy Digital Sahayak
+Bihar,Sitamarhi,843330,7.366666666666667,5485.0,2678.0,2.047405748413587,Deploy Digital Sahayak
+Bihar,Sitamarhi,843331,8.2125,13832.0,4082.0,3.387705118785207,Deploy Digital Sahayak
+Bihar,Sitamarhi,843332,5.916666666666666,5964.0,2092.0,2.849498327759197,Deploy Digital Sahayak
+Bihar,Siwan,841406,6.666666666666667,5479.0,1285.0,4.26049766718507,Deploy Digital Sahayak
+Bihar,West Champaran,845306,8.166666666666666,5016.0,1475.0,3.3983739837398375,Deploy Digital Sahayak
+Bihar,West Champaran,845307,8.354166666666668,8583.0,2208.0,3.8854685377999094,Deploy Digital Sahayak
+Bihar,West Champaran,845438,9.083333333333334,21925.0,4951.0,4.427504038772213,Deploy Digital Sahayak
+Bihar,West Champaran,845449,7.761904761904762,9919.0,3126.0,3.1720498880716343,Deploy Digital Sahayak
+Bihar,West Champaran,845453,7.241071428571429,8581.0,1800.0,4.764575235980011,Deploy Digital Sahayak
+Bihar,West Champaran,845455,7.647058823529412,13396.0,2980.0,4.493794028849379,Deploy Digital Sahayak
+Chhattisgarh,Balrampur,497223,7.458333333333334,3504.0,1205.0,2.9054726368159205,Deploy Digital Sahayak
+Chhattisgarh,Bijapur,494447,5.0,6256.0,1660.0,3.7664057796508126,Deploy Digital Sahayak
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,491881,4.0,331.0,68.0,4.797101449275362,Deploy Digital Sahayak
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,491885,3.583333333333333,242.0,77.0,3.1025641025641026,Deploy Digital Sahayak
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,497778,9.2,102.0,159.0,0.6375,Deploy Digital Sahayak
+Delhi,Shahdara,110032,6.285714285714286,2927.0,1423.0,2.0554775280898876,Deploy Digital Sahayak
+Gujarat,Ahmadabad,380001,5.0,3473.0,1128.0,3.076173604960142,Deploy Digital Sahayak
+Gujarat,Banaskantha,385110,3.833333333333333,4470.0,1042.0,4.285714285714286,Deploy Digital Sahayak
+Gujarat,Banaskantha,385120,3.6,6539.0,1340.0,4.87621178225205,Deploy Digital Sahayak
+Gujarat,Dohad,389151,4.0,5490.0,2674.0,2.052336448598131,Deploy Digital Sahayak
+Gujarat,Morbi,363641,4.0,9008.0,3228.0,2.7897181790027874,Deploy Digital Sahayak
+Gujarat,Morbi,363642,3.6666666666666665,3167.0,759.0,4.167105263157895,Deploy Digital Sahayak
+Haryana,Faridabad,121004,6.307692307692308,37684.0,7957.0,4.735360643377733,Deploy Digital Sahayak
+Jharkhand,Giridih,815312,4.2214285714285715,14408.0,2932.0,4.91237640640982,Deploy Digital Sahayak
+Jharkhand,Pakur,816107,4.818181818181818,13741.0,5263.0,2.610372340425532,Deploy Digital Sahayak
+Karnataka,Bengaluru,560035,4.0,2318.0,775.0,2.9871134020618557,Deploy Digital Sahayak
+Karnataka,Bengaluru,560049,4.571428571428571,3142.0,758.0,4.1396574440052705,Deploy Digital Sahayak
+Karnataka,Bengaluru,560066,4.0,2945.0,862.0,3.4125144843568944,Deploy Digital Sahayak
+Karnataka,Bengaluru,560067,4.0,2340.0,819.0,2.8536585365853657,Deploy Digital Sahayak
+Karnataka,Bengaluru,560077,5.333333333333333,4596.0,940.0,4.884165781083953,Deploy Digital Sahayak
+Karnataka,Bengaluru,560100,5.0,5187.0,1109.0,4.672972972972973,Deploy Digital Sahayak
+Madhya Pradesh,Agar Malwa,465441,4.125,3316.0,770.0,4.300907911802853,Deploy Digital Sahayak
+Madhya Pradesh,Bhind,477001,3.583333333333333,15043.0,3103.0,4.846327319587629,Deploy Digital Sahayak
+Madhya Pradesh,Bhind,477116,4.125,8143.0,2074.0,3.9243373493975904,Deploy Digital Sahayak
+Madhya Pradesh,Jhabua,457661,6.074074074074074,28025.0,6740.0,4.157395045245512,Deploy Digital Sahayak
+Madhya Pradesh,Maihar,485775,4.0,354.0,79.0,4.425,Deploy Digital Sahayak
+Madhya Pradesh,Maihar,485881,5.0,464.0,95.0,4.833333333333333,Deploy Digital Sahayak
+Madhya Pradesh,Mauganj,486331,7.0,488.0,172.0,2.820809248554913,Deploy Digital Sahayak
+Madhya Pradesh,Morena,476001,4.654761904761905,31096.0,6915.0,4.496240601503759,Deploy Digital Sahayak
+Madhya Pradesh,Morena,476221,3.928571428571429,17329.0,3777.0,4.586818422445739,Deploy Digital Sahayak
+Madhya Pradesh,Sheopur,476335,4.4,6267.0,1314.0,4.765779467680608,Deploy Digital Sahayak
+Maharashtra,Chhatrapati Sambhajinagar,431007,3.583333333333333,117.0,80.0,1.4444444444444444,Deploy Digital Sahayak
+Maharashtra,Mumbai Suburban,400072,4.6410256410256405,7527.0,1842.0,4.08410200759631,Deploy Digital Sahayak
+Maharashtra,Raigad,410206,7.6,3856.0,2008.0,1.9193628670980587,Deploy Digital Sahayak
+Meghalaya,East Garo Hills,794111,5.0,1315.0,3549.0,0.3704225352112676,Deploy Digital Sahayak
+Meghalaya,West Garo Hills,794104,4.174242424242424,18743.0,4376.0,4.282156728352753,Deploy Digital Sahayak
+Rajasthan,Alwar,301001,6.366220735785953,26249.0,6105.0,4.298886341303636,Deploy Digital Sahayak
+Rajasthan,Churu,331403,4.038461538461538,14065.0,3116.0,4.5123516201475775,Deploy Digital Sahayak
+Rajasthan,Jalor,343032,4.166666666666667,4715.0,1181.0,3.989001692047377,Deploy Digital Sahayak
+Rajasthan,Jodhpur,342001,9.667981727574752,27392.0,6436.0,4.255398477551655,Deploy Digital Sahayak
+Rajasthan,Karauli,322230,4.285714285714286,11976.0,2523.0,4.744849445324881,Deploy Digital Sahayak
+Rajasthan,Sirohi,307022,3.9375,7209.0,1859.0,3.8758064516129034,Deploy Digital Sahayak
+Rajasthan,Sirohi,307024,4.0,2838.0,1105.0,2.566003616636528,Deploy Digital Sahayak
+Rajasthan,Sirohi,307026,5.8125,19231.0,3941.0,4.878488077118214,Deploy Digital Sahayak
+Rajasthan,Udaipur,307025,5.0,6817.0,1542.0,4.4180168502916395,Deploy Digital Sahayak
+Tamil Nadu,Chengalpattu,600100,5.472222222222222,566.0,129.0,4.3538461538461535,Deploy Digital Sahayak
+Tamil Nadu,Chengalpattu,600126,4.2,231.0,55.0,4.125,Deploy Digital Sahayak
+Telangana,Hyderabad,500008,4.645833333333334,12744.0,3795.0,3.357218124341412,Deploy Digital Sahayak
+Telangana,Hyderabad,500028,4.625,8898.0,1948.0,4.5654181631605955,Deploy Digital Sahayak
+Telangana,Jayashankar Bhupalpally,506345,4.0,185.0,69.0,2.642857142857143,Deploy Digital Sahayak
+Telangana,Jayashankar Bhupalpally,506348,3.75,446.0,104.0,4.247619047619048,Deploy Digital Sahayak
+Telangana,Mahabubabad,506135,4.333333333333333,262.0,94.0,2.7578947368421054,Deploy Digital Sahayak
+Telangana,Mancherial,504272,5.0,253.0,63.0,3.953125,Deploy Digital Sahayak
+Telangana,Mulugu,506172,4.0,740.0,216.0,3.410138248847926,Deploy Digital Sahayak
+Telangana,Peddapalli,505152,4.833333333333334,247.0,53.0,4.574074074074074,Deploy Digital Sahayak
+Telangana,Suryapet,508221,5.5,836.0,170.0,4.888888888888889,Deploy Digital Sahayak
+Telangana,Suryapet,508222,6.366666666666667,371.0,99.0,3.71,Deploy Digital Sahayak
+Telangana,Suryapet,508223,4.0,492.0,122.0,4.0,Deploy Digital Sahayak
+Telangana,Suryapet,508279,4.583333333333334,399.0,82.0,4.807228915662651,Deploy Digital Sahayak
+Telangana,Suryapet,508376,4.5,181.0,68.0,2.6231884057971016,Deploy Digital Sahayak
+Telangana,Vikarabad,501101,6.0,1648.0,384.0,4.28051948051948,Deploy Digital Sahayak
+Telangana,Vikarabad,501121,3.583333333333333,492.0,99.0,4.92,Deploy Digital Sahayak
+Telangana,Vikarabad,501501,4.257575757575758,1349.0,298.0,4.511705685618729,Deploy Digital Sahayak
+Telangana,Vikarabad,509336,3.9022556390977448,639.0,243.0,2.6188524590163933,Deploy Digital Sahayak
+Telangana,Vikarabad,509350,4.761904761904762,684.0,158.0,4.30188679245283,Deploy Digital Sahayak
+Uttar Pradesh,Agra,282001,5.730769230769231,29278.0,8551.0,3.4235266604303085,Deploy Digital Sahayak
+Uttar Pradesh,Aligarh,202001,9.03225806451613,57205.0,11678.0,4.8981077147016014,Deploy Digital Sahayak
+Uttar Pradesh,Aligarh,202133,5.322916666666666,9260.0,2132.0,4.3413033286451,Deploy Digital Sahayak
+Uttar Pradesh,Ayodhya,224001,3.55,1406.0,752.0,1.8671978751660026,Deploy Digital Sahayak
+Uttar Pradesh,Azamgarh,276001,3.875,10549.0,2253.0,4.680124223602484,Deploy Digital Sahayak
+Uttar Pradesh,Azamgarh,276305,5.0,6862.0,1768.0,3.8790276992651216,Deploy Digital Sahayak
+Uttar Pradesh,Azamgarh,276404,6.285714285714286,6886.0,1489.0,4.621476510067114,Deploy Digital Sahayak
+Uttar Pradesh,Bahraich,271801,7.875,15918.0,4329.0,3.6762124711316395,Deploy Digital Sahayak
+Uttar Pradesh,Bahraich,271830,6.444444444444445,9149.0,2882.0,3.1734304543877907,Deploy Digital Sahayak
+Uttar Pradesh,Bahraich,271841,4.675,2988.0,835.0,3.574162679425837,Deploy Digital Sahayak
+Uttar Pradesh,Bahraich,271851,5.111111111111111,9933.0,2073.0,4.789296046287367,Deploy Digital Sahayak
+Uttar Pradesh,Bahraich,271855,5.482142857142858,20643.0,7167.0,2.8798828125,Deploy Digital Sahayak
+Uttar Pradesh,Bahraich,271865,7.5,22280.0,5731.0,3.886950453593859,Deploy Digital Sahayak
+Uttar Pradesh,Bahraich,271881,7.666666666666667,4838.0,1976.0,2.4471421345472937,Deploy Digital Sahayak
+Uttar Pradesh,Bahraich,271902,7.300000000000001,13564.0,3128.0,4.334931287951422,Deploy Digital Sahayak
+Uttar Pradesh,Balrampur,271208,8.875,9499.0,1991.0,4.768574297188755,Deploy Digital Sahayak
+Uttar Pradesh,Banda,210121,6.4,12912.0,2860.0,4.513107305138064,Deploy Digital Sahayak
+Uttar Pradesh,Bareilly,243001,7.4,16067.0,4843.0,3.3168868703550785,Deploy Digital Sahayak
+Uttar Pradesh,Bareilly,243201,7.55,21268.0,5656.0,3.7595898886335513,Deploy Digital Sahayak
+Uttar Pradesh,Budaun,243601,7.4686147186147185,21968.0,4782.0,4.592933305456826,Deploy Digital Sahayak
+Uttar Pradesh,Budaun,243638,7.777777777777778,11220.0,2576.0,4.353899883585565,Deploy Digital Sahayak
+Uttar Pradesh,Chandauli,232101,6.4,12504.0,2995.0,4.173564753004006,Deploy Digital Sahayak
+Uttar Pradesh,Etah,207001,6.111111111111111,26622.0,5955.0,4.469778374748153,Deploy Digital Sahayak
+Uttar Pradesh,Etah,207244,4.0,2206.0,603.0,3.652317880794702,Deploy Digital Sahayak
+Uttar Pradesh,Etah,207249,4.9,4497.0,982.0,4.574771108850458,Deploy Digital Sahayak
+Uttar Pradesh,Fatehpur,212601,6.861660079051384,17107.0,3764.0,4.543691899070385,Deploy Digital Sahayak
+Uttar Pradesh,Gautam Buddha Nagar,201301,7.428571428571429,23558.0,8373.0,2.8132314306185813,Deploy Digital Sahayak
+Uttar Pradesh,Gautam Buddha Nagar,201306,6.432773109243698,7581.0,3426.0,2.212138896994456,Deploy Digital Sahayak
+Uttar Pradesh,Gautam Buddha Nagar,201308,4.0,776.0,183.0,4.217391304347826,Deploy Digital Sahayak
+Uttar Pradesh,Gautam Buddha Nagar,201310,6.794642857142858,5001.0,1926.0,2.5952257394914375,Deploy Digital Sahayak
+Uttar Pradesh,Gautam Buddha Nagar,201318,4.2,503.0,112.0,4.451327433628318,Deploy Digital Sahayak
+Uttar Pradesh,Ghaziabad,201102,9.360681114551085,30554.0,6461.0,4.72825750541628,Deploy Digital Sahayak
+Uttar Pradesh,Gorakhpur,273001,6.571428571428571,7361.0,2329.0,3.1592274678111587,Deploy Digital Sahayak
+Uttar Pradesh,Gorakhpur,273008,4.0,3479.0,1012.0,3.4343534057255676,Deploy Digital Sahayak
+Uttar Pradesh,Gorakhpur,273015,6.330357142857142,8059.0,1939.0,4.1541237113402065,Deploy Digital Sahayak
+Uttar Pradesh,Hardoi,241001,6.36,28053.0,6311.0,4.444391634980988,Deploy Digital Sahayak
+Uttar Pradesh,Hardoi,241123,4.833333333333333,10278.0,2284.0,4.498030634573304,Deploy Digital Sahayak
+Uttar Pradesh,Hardoi,241124,6.354166666666666,12772.0,3235.0,3.9468479604449938,Deploy Digital Sahayak
+Uttar Pradesh,Hardoi,241402,5.483333333333333,8621.0,2187.0,3.940127970749543,Deploy Digital Sahayak
+Uttar Pradesh,Jaunpur,222139,5.333333333333333,7984.0,1671.0,4.77511961722488,Deploy Digital Sahayak
+Uttar Pradesh,Kanpur Dehat,209204,4.0,2680.0,742.0,3.60699865410498,Deploy Digital Sahayak
+Uttar Pradesh,Kanpur Nagar,208001,9.125,27541.0,6687.0,4.117972488038277,Deploy Digital Sahayak
+Uttar Pradesh,Kanpur Nagar,209402,5.25,3998.0,1040.0,3.840537944284342,Deploy Digital Sahayak
+Uttar Pradesh,Kasganj,207243,5.4,7929.0,1783.0,4.444506726457399,Deploy Digital Sahayak
+Uttar Pradesh,Kheri,262903,5.4,7971.0,1625.0,4.902214022140221,Deploy Digital Sahayak
+Uttar Pradesh,Lucknow,226003,12.75,21410.0,4699.0,4.55531914893617,Deploy Digital Sahayak
+Uttar Pradesh,Lucknow,226005,5.0,5211.0,1374.0,3.7898181818181818,Deploy Digital Sahayak
+Uttar Pradesh,Maharajganj,273157,4.0,5723.0,1359.0,4.208088235294118,Deploy Digital Sahayak
+Uttar Pradesh,Maharajganj,273164,5.326470588235294,10274.0,4143.0,2.4792471042471043,Deploy Digital Sahayak
+Uttar Pradesh,Maharajganj,273305,5.458333333333334,4982.0,1699.0,2.9305882352941177,Deploy Digital Sahayak
+Uttar Pradesh,Mainpuri,205001,6.364102564102565,14185.0,3579.0,3.962290502793296,Deploy Digital Sahayak
+Uttar Pradesh,Mainpuri,205262,4.9,6128.0,1695.0,3.6132075471698113,Deploy Digital Sahayak
+Uttar Pradesh,Mainpuri,206301,5.388888888888889,4629.0,1105.0,4.185352622061483,Deploy Digital Sahayak
+Uttar Pradesh,Meerut,250001,7.271221532091097,23995.0,5162.0,4.647491768351734,Deploy Digital Sahayak
+Uttar Pradesh,Meerut,250002,10.058823529411764,43111.0,9152.0,4.710040423904731,Deploy Digital Sahayak
+Uttar Pradesh,Moradabad,244411,3.6666666666666665,829.0,247.0,3.342741935483871,Deploy Digital Sahayak
+Uttar Pradesh,Prayagraj,211003,4.5,1542.0,734.0,2.0979591836734692,Deploy Digital Sahayak
+Uttar Pradesh,Rampur,244901,8.433333333333334,41171.0,9506.0,4.330598506363732,Deploy Digital Sahayak
+Uttar Pradesh,Shahjahanpur,242001,6.898459383753501,38406.0,8470.0,4.533821272577027,Deploy Digital Sahayak
+Uttar Pradesh,Shahjahanpur,242127,4.285714285714286,10533.0,3475.0,3.0302071346375143,Deploy Digital Sahayak
+Uttar Pradesh,Shahjahanpur,242221,4.954545454545455,15050.0,3893.0,3.864920390344119,Deploy Digital Sahayak
+Uttar Pradesh,Shahjahanpur,242303,4.222222222222222,5415.0,1163.0,4.652061855670103,Deploy Digital Sahayak
+Uttar Pradesh,Siddharthnagar,272206,4.138461538461538,7340.0,1916.0,3.8288993218570684,Deploy Digital Sahayak
+Uttar Pradesh,Sitapur,261201,7.533333333333333,24317.0,5690.0,4.272887014584431,Deploy Digital Sahayak
+Uttar Pradesh,Sitapur,261205,8.133333333333333,15791.0,3938.0,4.008885503935009,Deploy Digital Sahayak
+Uttar Pradesh,Sultanpur,228001,5.897321428571429,11879.0,3051.0,3.8922018348623855,Deploy Digital Sahayak
+Uttar Pradesh,Unnao,209801,8.5625,29174.0,8096.0,3.603062862788687,Deploy Digital Sahayak
+Uttar Pradesh,Unnao,209861,6.166666666666666,8112.0,1988.0,4.078431372549019,Deploy Digital Sahayak
+Uttar Pradesh,Varanasi,221001,10.857142857142858,26463.0,5930.0,4.461810824481538,Deploy Digital Sahayak
+Uttar Pradesh,Varanasi,221107,5.267857142857142,6091.0,1414.0,4.304593639575971,Deploy Digital Sahayak
+West Bengal,Birbhum,731204,9.0,5175.0,1089.0,4.747706422018348,Deploy Digital Sahayak
+West Bengal,Birbhum,731222,5.833333333333334,3070.0,795.0,3.85678391959799,Deploy Digital Sahayak
+West Bengal,Cooch Behar,736134,5.6,2523.0,809.0,3.1148148148148147,Deploy Digital Sahayak
+West Bengal,Cooch Behar,736135,6.333333333333333,3500.0,1953.0,1.7911975435005119,Deploy Digital Sahayak
+West Bengal,Cooch Behar,736146,3.9090909090909087,1845.0,411.0,4.478155339805825,Deploy Digital Sahayak
+West Bengal,Cooch Behar,736158,4.222222222222222,1322.0,402.0,3.2803970223325063,Deploy Digital Sahayak
+West Bengal,Cooch Behar,736165,4.333333333333334,2040.0,583.0,3.493150684931507,Deploy Digital Sahayak
+West Bengal,Cooch Behar,736167,6.461538461538462,2027.0,804.0,2.5180124223602482,Deploy Digital Sahayak
+West Bengal,Cooch Behar,736168,5.142857142857143,1237.0,510.0,2.420743639921722,Deploy Digital Sahayak
+West Bengal,Cooch Behar,736171,5.25,1094.0,223.0,4.883928571428571,Deploy Digital Sahayak
+West Bengal,Cooch Behar,736172,4.363636363636363,1373.0,425.0,3.223004694835681,Deploy Digital Sahayak
+West Bengal,Cooch Behar,736175,4.0,330.0,101.0,3.235294117647059,Deploy Digital Sahayak
+West Bengal,Cooch Behar,736176,5.5,608.0,218.0,2.776255707762557,Deploy Digital Sahayak
+West Bengal,Dakshin Dinajpur,733121,7.380952380952381,3715.0,775.0,4.787371134020619,Deploy Digital Sahayak
+West Bengal,Dakshin Dinajpur,733132,7.166666666666667,3002.0,900.0,3.331853496115427,Deploy Digital Sahayak
+West Bengal,Darjeeling,734003,9.5,3286.0,1028.0,3.193391642371234,Deploy Digital Sahayak
+West Bengal,Darjeeling,734010,5.875,2477.0,768.0,3.221066319895969,Deploy Digital Sahayak
+West Bengal,Darjeeling,734014,7.75,2210.0,499.0,4.42,Deploy Digital Sahayak
+West Bengal,Darjeeling,734429,6.0,1994.0,825.0,2.414043583535109,Deploy Digital Sahayak
+West Bengal,Darjeeling,734434,8.0,1396.0,518.0,2.6897880539499037,Deploy Digital Sahayak
+West Bengal,Darjiling,734014,4.0,172.0,58.0,2.9152542372881354,Deploy Digital Sahayak
+West Bengal,Darjiling,734426,7.25,448.0,115.0,3.8620689655172415,Deploy Digital Sahayak
+West Bengal,Darjiling,734434,9.0,253.0,222.0,1.1345291479820627,Deploy Digital Sahayak
+West Bengal,Jalpaiguri,735135,9.0,3255.0,1075.0,3.025092936802974,Deploy Digital Sahayak
+West Bengal,Jalpaiguri,735202,9.0,1880.0,438.0,4.28246013667426,Deploy Digital Sahayak
+West Bengal,Jalpaiguri,735210,9.75,4509.0,925.0,4.869330453563715,Deploy Digital Sahayak
+West Bengal,Jalpaiguri,735218,7.0,1891.0,550.0,3.4319419237749544,Deploy Digital Sahayak
+West Bengal,Kalimpong,734301,4.0,474.0,375.0,1.2606382978723405,Deploy Digital Sahayak
+West Bengal,Koch Bihar,735301,7.5,254.0,73.0,3.4324324324324325,Deploy Digital Sahayak
+West Bengal,Koch Bihar,736131,9.0,750.0,168.0,4.437869822485207,Deploy Digital Sahayak
+West Bengal,Koch Bihar,736133,6.5,267.0,71.0,3.7083333333333335,Deploy Digital Sahayak
+West Bengal,Koch Bihar,736135,13.5,1249.0,313.0,3.977707006369427,Deploy Digital Sahayak
+West Bengal,Koch Bihar,736145,7.666666666666667,296.0,114.0,2.5739130434782607,Deploy Digital Sahayak
+West Bengal,Koch Bihar,736146,20.0,904.0,261.0,3.450381679389313,Deploy Digital Sahayak
+West Bengal,Koch Bihar,736156,12.0,754.0,154.0,4.864516129032258,Deploy Digital Sahayak
+West Bengal,Koch Bihar,736159,14.0,1395.0,312.0,4.456869009584665,Deploy Digital Sahayak
+West Bengal,Koch Bihar,736168,5.0,228.0,149.0,1.52,Deploy Digital Sahayak
+West Bengal,Koch Bihar,736170,6.0,121.0,74.0,1.6133333333333333,Deploy Digital Sahayak
+West Bengal,Koch Bihar,736171,4.0,83.0,64.0,1.2769230769230768,Deploy Digital Sahayak
+West Bengal,Koch Bihar,736172,6.5,393.0,93.0,4.180851063829787,Deploy Digital Sahayak
+West Bengal,Koch Bihar,736176,5.0,53.0,59.0,0.8833333333333333,Deploy Digital Sahayak
+West Bengal,Kolkata,700004,4.0,872.0,353.0,2.463276836158192,Deploy Digital Sahayak
+West Bengal,Kolkata,700016,7.0,2175.0,666.0,3.260869565217391,Deploy Digital Sahayak
+West Bengal,Kolkata,700023,11.8,4071.0,1106.0,3.6775067750677506,Deploy Digital Sahayak
+West Bengal,Malda,732124,9.281818181818181,5182.0,1505.0,3.4409030544488712,Deploy Digital Sahayak
+West Bengal,Malda,732126,5.866666666666667,2089.0,428.0,4.869463869463869,Deploy Digital Sahayak
+West Bengal,Malda,732139,6.285714285714286,4470.0,915.0,4.879912663755459,Deploy Digital Sahayak
+West Bengal,Malda,732201,5.125,7058.0,1568.0,4.498406628425749,Deploy Digital Sahayak
+West Bengal,Malda,732204,3.875,1078.0,251.0,4.277777777777778,Deploy Digital Sahayak
+West Bengal,Malda,732210,4.8,1862.0,579.0,3.2103448275862068,Deploy Digital Sahayak
+West Bengal,Maldah,732204,4.0,247.0,54.0,4.490909090909091,Deploy Digital Sahayak
+West Bengal,Murshidabad,731221,4.0,1011.0,268.0,3.758364312267658,Deploy Digital Sahayak
+West Bengal,Murshidabad,742181,4.0,1874.0,426.0,4.388758782201405,Deploy Digital Sahayak
+West Bengal,Murshidabad,742184,5.7,1010.0,280.0,3.5943060498220643,Deploy Digital Sahayak
+West Bengal,Murshidabad,742201,6.6,3623.0,1345.0,2.6916790490341755,Deploy Digital Sahayak
+West Bengal,Murshidabad,742202,8.222222222222221,7692.0,3574.0,2.1516083916083915,Deploy Digital Sahayak
+West Bengal,Murshidabad,742212,6.25,1918.0,568.0,3.3708260105448153,Deploy Digital Sahayak
+West Bengal,Murshidabad,742223,5.708333333333334,3292.0,867.0,3.792626728110599,Deploy Digital Sahayak
+West Bengal,Murshidabad,742224,6.666666666666667,4954.0,1542.0,3.2106286454957873,Deploy Digital Sahayak
+West Bengal,Murshidabad,742226,5.0,3872.0,812.0,4.762607626076261,Deploy Digital Sahayak
+West Bengal,Murshidabad,742232,4.0,217.0,125.0,1.7222222222222223,Deploy Digital Sahayak
+West Bengal,Murshidabad,742306,4.291666666666666,2155.0,497.0,4.327309236947791,Deploy Digital Sahayak
+West Bengal,Nadia,741126,10.2,5056.0,1131.0,4.46643109540636,Deploy Digital Sahayak
+West Bengal,Nadia,741223,6.0,2222.0,608.0,3.6486042692939247,Deploy Digital Sahayak
+West Bengal,Nadia,741313,4.5,619.0,306.0,2.01628664495114,Deploy Digital Sahayak
+West Bengal,Nadia,741501,9.5,2589.0,753.0,3.43368700265252,Deploy Digital Sahayak
+West Bengal,Nadia,741502,7.375,3998.0,1399.0,2.855714285714286,Deploy Digital Sahayak
+West Bengal,North 24 Parganas,743251,8.875,2652.0,724.0,3.6579310344827585,Deploy Digital Sahayak
+West Bengal,North 24 Parganas,743262,8.25,1905.0,540.0,3.521256931608133,Deploy Digital Sahayak
+West Bengal,North 24 Parganas,743270,4.2,817.0,200.0,4.064676616915423,Deploy Digital Sahayak
+West Bengal,North 24 Parganas,743287,4.0,1356.0,324.0,4.172307692307692,Deploy Digital Sahayak
+West Bengal,North 24 Parganas,743290,5.291666666666666,1146.0,359.0,3.183333333333333,Deploy Digital Sahayak
+West Bengal,North 24 Parganas,743293,5.0,1702.0,345.0,4.91907514450867,Deploy Digital Sahayak
+West Bengal,North 24 Parganas,743423,12.0,6697.0,1774.0,3.7729577464788733,Deploy Digital Sahayak
+West Bengal,North 24 Parganas,743424,11.083333333333332,4332.0,954.0,4.536125654450262,Deploy Digital Sahayak
+West Bengal,North 24 Parganas,743425,9.069444444444445,6246.0,1360.0,4.589272593681117,Deploy Digital Sahayak
+West Bengal,North 24 Parganas,743502,5.0,1328.0,285.0,4.643356643356643,Deploy Digital Sahayak
+West Bengal,North 24 Parganas,743701,4.0,554.0,117.0,4.694915254237288,Deploy Digital Sahayak
+West Bengal,North 24 Parganas,743710,5.0,939.0,240.0,3.896265560165975,Deploy Digital Sahayak
+West Bengal,North Twenty Four Parganas,743221,4.0,408.0,101.0,4.0,Deploy Digital Sahayak
+West Bengal,Paschim Medinipur,721127,7.875,3367.0,799.0,4.20875,Deploy Digital Sahayak
+West Bengal,Puruliya,723155,6.25,1783.0,480.0,3.7068607068607067,Deploy Digital Sahayak
+West Bengal,South 24 Parganas,700066,6.75,1587.0,402.0,3.937965260545906,Deploy Digital Sahayak
+West Bengal,South 24 Parganas,743351,4.0,1632.0,359.0,4.533333333333333,Deploy Digital Sahayak
+West Bengal,South 24 Parganas,743363,7.666666666666667,2395.0,486.0,4.917864476386037,Deploy Digital Sahayak
+West Bengal,South 24 Parganas,743376,9.933333333333334,6246.0,1310.0,4.7643020594965675,Deploy Digital Sahayak
+West Bengal,South 24 Parganas,743611,6.0,1750.0,420.0,4.156769596199525,Deploy Digital Sahayak
+West Bengal,South Dinajpur,733132,12.0,608.0,171.0,3.5348837209302326,Deploy Digital Sahayak
+West Bengal,South Twenty Four Parganas,743329,6.0,1063.0,224.0,4.724444444444444,Deploy Digital Sahayak
+West Bengal,South Twenty Four Parganas,743351,4.0,607.0,145.0,4.157534246575342,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733123,6.55,2716.0,562.0,4.824156305506217,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733129,9.666666666666666,4971.0,1495.0,3.322860962566845,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733132,5.0,323.0,93.0,3.4361702127659575,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733134,8.222222222222221,8040.0,1662.0,4.834636199639206,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733156,7.2,3734.0,1203.0,3.101328903654485,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733201,10.2,6896.0,2550.0,2.7032536260290083,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733202,12.055194805194805,9883.0,4391.0,2.2502276867030964,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733207,13.875,9993.0,4847.0,2.061262376237624,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733208,10.766666666666666,9063.0,1964.0,4.6122137404580155,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733209,8.291666666666668,4401.0,1042.0,4.219558964525407,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733210,9.22222222222222,13234.0,3150.0,4.1999365280863215,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733211,4.75,1192.0,280.0,4.241992882562277,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733214,4.833333333333334,386.0,127.0,3.015625,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733215,7.0,5069.0,1376.0,3.681190994916485,Deploy Digital Sahayak
+West Bengal,Uttar Dinajpur,733216,6.0,598.0,231.0,2.5775862068965516,Deploy Digital Sahayak
+West Bengal,West Midnapore,721150,5.5,257.0,89.0,2.8555555555555556,Deploy Digital Sahayak
