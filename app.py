@@ -91,7 +91,17 @@ st.markdown("""
         font-weight: bold !important;
     }
 
-    /* 6. REMOVE BLOAT */
+    /* 6. CHATBOT STYLING */
+    .stChatMessage {
+        background-color: #ffffff;
+        border: 1px solid #e0e0e0;
+        border-radius: 10px;
+        padding: 10px;
+        margin-bottom: 10px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    /* 7. REMOVE BLOAT */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     header {visibility: hidden;}
@@ -152,7 +162,49 @@ def load_map_data():
 india_geojson = load_map_data()
 
 # ==========================================
-# 3. SIDEBAR NAVIGATION
+# 3. CHATBOT LOGIC (HELPER FUNCTION)
+# ==========================================
+def get_bot_response(user_query):
+    user_query = user_query.lower()
+    
+    # 1. GREETINGS
+    if any(x in user_query for x in ["hi", "hello", "hey"]):
+        return "Namaste! I am Drishti AI. I can answer questions about Fraud Alerts, Migration Trends, or Ghost Villages. Try asking: 'Which district has the most fraud?'"
+    
+    # 2. FRAUD QUERIES
+    if "fraud" in user_query or "alert" in user_query:
+        df = df_dict['fraud']
+        if df.empty: return "I don't have fraud data loaded right now."
+        high_risk = len(df[df['audit_status'].str.contains("HIGH RISK")])
+        top_district = df['district'].value_counts().idxmax() if not df.empty else "Unknown"
+        return f"Currently, I detect **{high_risk} High-Risk Alerts** requiring immediate audit. The district with the highest suspicious activity is **{top_district}**."
+
+    # 3. MIGRATION / BOOM TOWN QUERIES
+    if "migration" in user_query or "boom" in user_query or "growth" in user_query:
+        df = df_dict['boom']
+        if df.empty: return "Migration data is unavailable."
+        count = len(df)
+        avg_vel = df['velocity_q3'].mean()
+        return f"I have identified **{count} Boom Towns** experiencing rapid population influx. The average enrollment velocity is **{avg_vel:.1f} enrollments/day** (2x Baseline)."
+
+    # 4. GHOST VILLAGE / ELDERLY QUERIES
+    if "ghost" in user_query or "elderly" in user_query or "aging" in user_query:
+        df = df_dict['ghost']
+        if df.empty: return "Demographic data is unavailable."
+        count = len(df)
+        return f"There are **{count} Ghost Villages** detected where high elderly populations are unable to access centers. I recommend deploying **Mobile Aadhaar Vans**."
+
+    # 5. DIGITAL DIVIDE
+    if "digital" in user_query or "dark" in user_query:
+        df = df_dict['digital']
+        if df.empty: return "Digital exclusion data is unavailable."
+        return f"I see **{len(df)} Digital Dark Zones** where biometric failure rates are abnormally high."
+
+    # DEFAULT FALLBACK
+    return "I am analyzing the latest signals. You can ask me about: **Fraud Alerts**, **Migration Hotspots**, or **Digital Exclusion**."
+
+# ==========================================
+# 4. SIDEBAR NAVIGATION
 # ==========================================
 with st.sidebar:
     st.image("https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Aadhaar_Logo.svg/1200px-Aadhaar_Logo.svg.png", width=60)
@@ -179,14 +231,42 @@ with st.sidebar:
     st.caption(f"Last Sync: {pd.Timestamp.now().strftime('%d-%b-%Y %H:%M')}")
 
 # ==========================================
-# 4. MODULES
+# 5. MODULES
 # ==========================================
 
 # ------------------------------------------
-# SCREEN 1: NATIONAL OVERVIEW
+# SCREEN 1: NATIONAL OVERVIEW (CHATBOT INTEGRATED HERE)
 # ------------------------------------------
 if selected == "National Overview":
     st.title("🇮🇳 National Command Center")
+    
+    # --- CHATBOT SECTION (INSERTED JUST BELOW TITLE) ---
+    with st.expander("🤖 **Ask Drishti AI Assistant** (Click to Chat)", expanded=False):
+        st.caption("I can analyze Fraud, Migration, and Digital Trends from your datasets.")
+        
+        # Initialize chat history
+        if "messages" not in st.session_state:
+            st.session_state.messages = [{"role": "assistant", "content": "Hello! I am monitoring the National Dashboard. Ask me 'Show fraud stats' or 'Where are boom towns?'"}]
+
+        # Display chat messages
+        for message in st.session_state.messages:
+            with st.chat_message(message["role"]):
+                st.markdown(message["content"])
+
+        # Chat Input (Uses Streamlit's chat_input, handles interaction inside the loop)
+        if prompt := st.chat_input("Ask Drishti about governance data..."):
+            st.session_state.messages.append({"role": "user", "content": prompt})
+            with st.chat_message("user"):
+                st.markdown(prompt)
+            
+            response = get_bot_response(prompt)
+            
+            with st.chat_message("assistant"):
+                st.markdown(response)
+            st.session_state.messages.append({"role": "assistant", "content": response})
+            st.rerun() # Force rerun to update chat immediately
+    # ---------------------------------------------------
+
     st.markdown("**Governance Question:** Where does the government need to act *right now*?")
     
     # 1. KPI ROW
@@ -218,34 +298,22 @@ if selected == "National Overview":
             df = df_dict["fraud"]
             color = "Reds"
             title = "High-Risk Fraud Centers"
-            # Insight Config for Side Panel
             insight_data = df[df['audit_status'].str.contains("HIGH RISK")]
-            insight_col_rename = {"risk_reason": "Risk Pattern", "severity_score": "Severity"}
-            insight_unit = "⚠"
         elif "Migration" in map_layer:
             df = df_dict["boom"]
             color = "Oranges"
             title = "Migration Velocity"
-            # Insight Config
             insight_data = df
-            insight_col_rename = {"velocity_q3": "Daily Velocity", "volume_sum": "Total Influx"}
-            insight_unit = "🚀"
         elif "Aging" in map_layer:
             df = df_dict["ghost"]
             color = "Purples"
             title = "Elderly Dependency"
-            # Insight Config
             insight_data = df
-            insight_col_rename = {"elderly_pressure_median": "Elderly Ratio", "volume_median": "Activity"}
-            insight_unit = "👴"
         else: # Digital Divide
             df = df_dict["digital"]
             color = "Blues"
             title = "Digital Exclusion Zones"
-            # Insight Config
             insight_data = df
-            insight_col_rename = {"action": "Action Plan", "bio_rate": "Compliance"}
-            insight_unit = "📍"
 
         # RENDER MAP
         if not df.empty:
@@ -260,7 +328,7 @@ if selected == "National Overview":
         else:
             st.info("No data available for this layer.")
 
-    # 3. DYNAMIC ACTIONABLE INSIGHTS (Changes based on Map selection)
+    # 3. DYNAMIC ACTIONABLE INSIGHTS
     with c_action:
         st.subheader("⚡ Actionable Insights")
         st.info(f"Top 5 Critical Targets: {map_layer}")
@@ -311,7 +379,6 @@ elif selected == "Integrity Shield (Fraud)":
         
         st.markdown("---")
         
-        # --- CHANGED: REMOVED PIE CHART, FOCUSED ON LIST ---
         st.subheader("🚨 Priority Audit Queue (Pattern Analysis)")
         
         if not high_risk.empty:
@@ -383,10 +450,8 @@ elif selected == "Demographic Scanner":
     if not df.empty:
         st.metric("Ghost Villages Identified", len(df), "High Youth Exodus")
         
-        # --- CHANGED: BETTER VISUALIZATION (Bar Chart instead of Scatter) ---
         st.subheader("📊 Districts with Critical Elderly Dependency")
         
-        # Aggregate Max Elderly Pressure per District
         top_aging_dist = df.groupby('district')['elderly_pressure_median'].max().reset_index()
         top_aging_dist = top_aging_dist.sort_values('elderly_pressure_median', ascending=False).head(12)
         
@@ -400,12 +465,10 @@ elif selected == "Demographic Scanner":
             color_continuous_scale='Purples',
             labels={'elderly_pressure_median': 'Elderly Ratio (Max)', 'district': 'District'}
         )
-        # Reverse y axis to show top at top
         fig.update_layout(yaxis=dict(autorange="reversed"))
         st.plotly_chart(fig, use_container_width=True)
         
         st.subheader("📋 Critical Intervention List")
-        # Deduplication
         critical_list = df.groupby('district').agg({
             'elderly_pressure_median': 'max',
             'pincode': 'count'
@@ -438,7 +501,6 @@ elif selected == "Digital Divide Overlay":
         
         st.subheader("🚑 Deployment Plan")
         
-        # Deduplication
         deploy_plan = df.groupby(['district', 'state', 'action']).size().reset_index(name='Zones')
         deploy_plan = deploy_plan.sort_values('Zones', ascending=False).head(15)
         
@@ -461,7 +523,6 @@ elif selected == "Impact & Outcomes":
     st.title("🏆 Impact & Outcomes")
     st.markdown("**Governance Question:** Is Aadhaar Drishti improving governance outcomes?")
     
-    # 1. KPI CARDS
     c1, c2, c3, c4 = st.columns(4)
     with c1: st.metric("Pending Updates", "-18%", "Reduced Delay")
     with c2: st.metric("Biometric Compliance", "+6.4%", "YoY Improvement")
@@ -470,7 +531,6 @@ elif selected == "Impact & Outcomes":
     
     st.markdown("---")
     
-    # --- CHANGED: ADDED HOURS & MONEY SAVED ---
     st.subheader("💰 Operational Savings (Projected)")
     
     c_roi1, c_roi2 = st.columns(2)
